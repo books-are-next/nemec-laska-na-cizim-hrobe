@@ -1,36 +1,37 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Láska na cizím hrobě
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ludvík Němec
+  publisher: Městská knihovna v Praze
+  modified: '2021-11-19T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - laska_na_cizim_hrobe_001.html
+  - laska_na_cizim_hrobe_002.html
+  - laska_na_cizim_hrobe_003.html
+  - laska_na_cizim_hrobe_004.html
+  - laska_na_cizim_hrobe_005.html
+  - laska_na_cizim_hrobe_006.html
+  - laska_na_cizim_hrobe_007.html
+  - laska_na_cizim_hrobe_008.html
+  - laska_na_cizim_hrobe_009.html
+  - laska_na_cizim_hrobe_010.html
+  - laska_na_cizim_hrobe_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
