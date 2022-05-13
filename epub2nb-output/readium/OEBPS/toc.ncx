@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Láska na cizím hrobě</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ludvík Němec</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Nějaké nebe</text>
+      </navLabel>
+      <content src="Text/laska_na_cizim_hrobe_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Dírka</text>
+      </navLabel>
+      <content src="Text/laska_na_cizim_hrobe_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Rezonance</text>
+      </navLabel>
+      <content src="Text/laska_na_cizim_hrobe_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Lůno</text>
+      </navLabel>
+      <content src="Text/laska_na_cizim_hrobe_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Vybřežení</text>
+      </navLabel>
+      <content src="Text/laska_na_cizim_hrobe_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+  </navMap>
+</ncx>
