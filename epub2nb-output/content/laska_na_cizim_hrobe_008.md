@@ -3,11 +3,9 @@ title: Rezonance
 contentType: prose
 ---
 
-Pokuta za nespláchnutí až tisíc dolarů. Platí i v případě, že splachovadlo nefunguje.
+> _Pokuta za nespláchnutí až tisíc dolarů. Platí i v případě, že splachovadlo nefunguje._
 
-upozornění na singapurských veřejných záchodcích
-
-  
+> upozornění na singapurských veřejných záchodcích
 
 Dokonce mu i nabídli, že si může vybrat hudbu.
 
@@ -289,135 +287,135 @@ To přece není spravedlivé, Pane. Je tolik jiných věcí, za něž si zaslou�
 
 Tohle přece není můj _opravdový_ příběh, Pane, tohle je jen historka pro zasmání či úšklebek; dokonce i ta neobratná skladba, kterou jsem hrál dvakrát ten večer a již teď za trest slyším ve sluchátkách, vypovídá o mně – a o mém vztahu k Tobě – stokrát víc než cokoliv z toho večera a posrané (vlastně: prosrané, doslova _prosrané_) dávné noci. Proč chceš dělat z té skoro nevinné barové zábavy _dan_s_e macabre_[2](./resources/undefined)?
 
-„Tak vidíš, že ti to docela jde…“
+_„Tak vidíš, že ti to docela jde…“_
 
-„Hudebník by měl mít smysl pro rytmus…“
+_„Hudebník by měl mít smysl pro rytmus…“_
 
-„A když se ještě trochu uvolníš…“
+_„A když se ještě trochu uvolníš…“_
 
-„Pro rytmus – a pro krásné ženy…“
+_„Pro rytmus – a pro krásné ženy…“_
 
-„Hele, zas tak moc to s tím uvolňováním nepřeháněj, jo?“
+_„Hele, zas tak moc to s tím uvolňováním nepřeháněj, jo?“_
 
-„Když ty jsi opravdu skvělá to. Tanečnice…“
+_„Když ty jsi opravdu skvělá to. Tanečnice…“_
 
-„Však jsem se tím taky živila, víš.“
+_„Však jsem se tím taky živila, víš.“_
 
-„U tyče?“
+_„U tyče?“_
 
-„To taky. Ale teď myslím klasiku. Waltz, tango, ploužáčky se starejma dědkama. V jednom takovým vídeňským podniku, ve vší počestnosti. Akorát mě brzo vyhodili, protože ti dědci to se mnou moc počestně nemysleli. Stávalo se jim, co se jim stávat nemělo. Jestli rozumíš…“
+_„To taky. Ale teď myslím klasiku. Waltz, tango, ploužáčky se starejma dědkama. V jednom takovým vídeňským podniku, ve vší počestnosti. Akorát mě brzo vyhodili, protože ti dědci to se mnou moc počestně nemysleli. Stávalo se jim, co se jim stávat nemělo. Jestli rozumíš…“_
 
-„Rozumím…“
+_„Rozumím…“_
 
-„To cítím, že rozumíš. A ten starej esesák, co to tam vedl, vždycky řekl, že za to můžu já! Prase! Ale večer v kanclu mu to už tak nevadilo…“
+_„To cítím, že rozumíš. A ten starej esesák, co to tam vedl, vždycky řekl, že za to můžu já! Prase! Ale večer v kanclu mu to už tak nevadilo…“_
 
-„A já si fakt myslel, že jsi Ruska…“
+_„A já si fakt myslel, že jsi Ruska…“_
 
-„Ještě to tak. Ale měla jsem ruskou trenérku, Soňu. Soničku Vasiljevnu.“
+_„Ještě to tak. Ale měla jsem ruskou trenérku, Soňu. Soničku Vasiljevnu.“_
 
-„Tys dělala nějakej sport?“
+_„Tys dělala nějakej sport?“_
 
-„Myslels, že zvládnu jen zdravej pohyb na zdravým těle?“
+_„Myslels, že zvládnu jen zdravej pohyb na zdravým těle?“_
 
-„Myslel jsem… třeba gymnastiku. Máš takový – vytrénovaný tělo…“
+_„Myslel jsem… třeba gymnastiku. Máš takový – vytrénovaný tělo…“_
 
-„Náhodou seš dost blízko. Skákala jsem totiž do vody. Závodně.“
+_„Náhodou seš dost blízko. Skákala jsem totiž do vody. Závodně.“_
 
-„Fakt?“
+_„Fakt?“_
 
-„Ve čtrnácti jsem byla dokonce v širší nominaci.“
+_„Ve čtrnácti jsem byla dokonce v širší nominaci.“_
 
-„No teda. Představuju si tě, jak prorážíš vodu jako mořská panna…“
+_„No teda. Představuju si tě, jak prorážíš vodu jako mořská panna…“_
 
-„Spíš jen mořská. Znáš ten fór?“
+_„Spíš jen mořská. Znáš ten fór?“_
 
-„Právě jsi mi ho řekla.“
+_„Právě jsi mi ho řekla.“_
 
-„To mě na tom asi bavilo nejvíc. Když jsem stála nahoře na věži a ti chlapi dole na mě čuměli. Nevadí ti, že se ráda předvádím?“
+_„To mě na tom asi bavilo nejvíc. Když jsem stála nahoře na věži a ti chlapi dole na mě čuměli. Nevadí ti, že se ráda předvádím?“_
 
-„Vůbec… když máš co…“
+_„Vůbec… když máš co…“_
 
-„Ale Soničce Vasiljevně to ohromně vadilo, tý ruský lesbě. Prý mě to zbavuje koncentrace! Kráva! Byla jen samej trénink, rozumíš. Pořád v tělocvičně, v bazénu, na trampolíně. Byla jsem vyskákaná víc než dnes.“
+_„Ale Soničce Vasiljevně to ohromně vadilo, tý ruský lesbě. Prý mě to zbavuje koncentrace! Kráva! Byla jen samej trénink, rozumíš. Pořád v tělocvičně, v bazénu, na trampolíně. Byla jsem vyskákaná víc než dnes.“_
 
-„Takže to máš k tomu filmu o Rusech docela blízko, co?“
+_„Takže to máš k tomu filmu o Rusech docela blízko, co?“_
 
-„Mínus dvacet centimetrů.“
+_„Mínus dvacet centimetrů.“_
 
-„Mínus dvacet centimetrů?“
+_„Mínus dvacet centimetrů?“_
 
-„To je fór.“
+_„To je fór.“_
 
-„Aha. Jo tak, dobrej. A proč vlastně točíte o Rusech?“
+_„Aha. Jo tak, dobrej. A proč vlastně točíte o Rusech?“_
 
-„Mě se neptej. Ale je to prý hodně to – politický.“
+_„Mě se neptej. Ale je to prý hodně to – politický.“_
 
-„Já myslel, že pornografický.“
+_„Já myslel, že pornografický.“_
 
-„To jasně, ale taky politický. Jaký to byly komunistický svině a tak. Jak se chovali k ženským. Jak je ojížděli do zadku, buzeranti. Budou tam ožralí ruští důstojníci a nevinný květinky jako já…“
+_„To jasně, ale taky politický. Jaký to byly komunistický svině a tak. Jak se chovali k ženským. Jak je ojížděli do zadku, buzeranti. Budou tam ožralí ruští důstojníci a nevinný květinky jako já…“_
 
-„To točíte tady na Kudlově?“
+_„To točíte tady na Kudlově?“_
 
-„No jasně. Ty to tam znáš?“
+_„No jasně. Ty to tam znáš?“_
 
-„Ani ne. Jenom ty filmy, co tam vznikly. Vynález zkázy, Baron Prášil, Cesta do pravěku.“
+_„Ani ne. Jenom ty filmy, co tam vznikly. Vynález zkázy, Baron Prášil, Cesta do pravěku.“_
 
-„To neznám.“
+_„To neznám.“_
 
-„Světový filmy, fakt. Od Karla Zemana.“
+_„Světový filmy, fakt. Od Karla Zemana.“_
 
-„Já se teď musím dívat na úplně jiný filmy, rozumíš. Studijně. Není to tak lehký, jak to vypadá. Třeba anál někdy fakt dost bolí.“
+_„Já se teď musím dívat na úplně jiný filmy, rozumíš. Studijně. Není to tak lehký, jak to vypadá. Třeba anál někdy fakt dost bolí.“_
 
-„To… věřím.“
+_„To… věřím.“_
 
-„Musí se při tom trénovat skoro víc než se Soničkou Vasiljevnou. Ale zase je to trochu zábavnější.“
+_„Musí se při tom trénovat skoro víc než se Soničkou Vasiljevnou. Ale zase je to trochu zábavnější.“_
 
-„To věřím.“
+_„To věřím.“_
 
-„Dneska to byl taky jen trénink, rozumíš. Trochu pro mě, jestli mi při orálu nevypadne ten zub. Ale hlavně pro Bena, aby si zvykl dělat to před lidma. Pro chlapa je to vždycky těžší.“
+_„Dneska to byl taky jen trénink, rozumíš. Trochu pro mě, jestli mi při orálu nevypadne ten zub. Ale hlavně pro Bena, aby si zvykl dělat to před lidma. Pro chlapa je to vždycky těžší.“_
 
-„To… určitě.“
+_„To… určitě.“_
 
-„Pro tebe ale nejspíš ne, co?“
+_„Pro tebe ale nejspíš ne, co?“_
 
-„Co?“
+_„Co?“_
 
-„Kdybysme teď byli v Rakousku v tý taneční škole, musel bys hned vypadnout z parketu.“
+_„Kdybysme teď byli v Rakousku v tý taneční škole, musel bys hned vypadnout z parketu.“_
 
-„Promiň. Když ty jsi tak krásná… a vzrušující.“
+_„Promiň. Když ty jsi tak krásná… a vzrušující.“_
 
-„Dík. Ale než dohraje tahle písnička, budeš to muset zvládnout. Jasný? Aby si ti lidi tady nakonec nemysleli, že produkce pokračuje. Že mě chceš ojet přímo na tom klavíru.“
+_„Dík. Ale než dohraje tahle písnička, budeš to muset zvládnout. Jasný? Aby si ti lidi tady nakonec nemysleli, že produkce pokračuje. Že mě chceš ojet přímo na tom klavíru.“_
 
-„Poetická představa…“
+_„Poetická představa…“_
 
-„Dělals to vůbec někdy na klavíru, když jsi muzikant?“
+_„Dělals to vůbec někdy na klavíru, když jsi muzikant?“_
 
-„No… to zrovna ne.“
+_„No… to zrovna ne.“_
 
-„To by mohlo bejt dobrý číslo do filmu, ne? Jen si to představ – ženská leží na zádech na klavíru s roztaženýma nohama, chlap ve fraku hraje a přitom ji třeba líže. Ona má nohy na jeho ramenách. Umíš si to představit?“
+_„To by mohlo bejt dobrý číslo do filmu, ne? Jen si to představ – ženská leží na zádech na klavíru s roztaženýma nohama, chlap ve fraku hraje a přitom ji třeba líže. Ona má nohy na jeho ramenách. Umíš si to představit?“_
 
-„No… rozhodně. A co ten chlap hraje?“
+_„No… rozhodně. A co ten chlap hraje?“_
 
-„Co?“
+_„Co?“_
 
-„Jakou skladbu?“
+_„Jakou skladbu?“_
 
-„Můj bože – jak to mám vědět? Třeba Kočka leze dírou…“
+_„Můj bože – jak to mám vědět? Třeba Kočka leze dírou…“_
 
-„No… to by šlo. Fakt vhodný. Když se to mohlo hodit Smetanovi…“
+_„No… to by šlo. Fakt vhodný. Když se to mohlo hodit Smetanovi…“_
 
-„A ta ženská by přitom taky mohla na něco hrát, ne?“
+_„A ta ženská by přitom taky mohla na něco hrát, ne?“_
 
-„Myslíš, že by to byl takový duet? Jako Dvořákova Dueta pro klavír a housle?“
+_„Myslíš, že by to byl takový duet? Jako Dvořákova Dueta pro klavír a housle?“_
 
-„Spíš na něco foukacího. Aby to vypadalo jako kouření péra, rozumíš. Nebo by se mohla tím nástrojem přitom i rajcovat, ne?“
+_„Spíš na něco foukacího. Aby to vypadalo jako kouření péra, rozumíš. Nebo by se mohla tím nástrojem přitom i rajcovat, ne?“_
 
-„Tak co třeba… zobcová flétna? To je taková píšťalka, co vypadá docela… příhodně.“
+_„Tak co třeba… zobcová flétna? To je taková píšťalka, co vypadá docela… příhodně.“_
 
-„Píšťalka? Není moc malá?“
+_„Píšťalka? Není moc malá?“_
 
-„Je jich plno druhů. Altová, sopránová –“
+_„Je jich plno druhů. Altová, sopránová –“_
 
-„Jaká je ta tvoje?“
+_„Jaká je ta tvoje?“_
 
 Atd. atd., takhle nějak to bylo. Ty dialogy nejsou úplně autentické, vždyť nejde o rekonstrukci z místa činu: základ je skutečný, ale znění je spíše stylizace, dvacetkrát přepisovaný scénář, k němuž chtěl Stach víc než jen složit filmovou hudbu. Ve skutečnosti se však zmohl jen na rychlodabing – jako v těch prvních porevolučních erotických filmech, v nichž ženskou i mužskou roli četl týž mužský hlas, což sexuálně poznamenalo celou dospívající generaci.
 
@@ -437,7 +435,7 @@ Hrál na klavír a ona hrála na Stacha. Con amore, intimo.[3](./resources/unde
 
 Pak to roky chtěl od svých milenek, aby mu blízko vyvrcholení šeptaly právě tato slova; vzhledem k jeho profesi jim to zřejmě přišlo případné. _Vyvrcholení_. Přišlo dřív, než čekal, a úplně jinak, než doufal. Políbila ho, ta děvka se zlatým zubem. Zrychlila rytmus, accelerando duro! Zavřela oči, líbala ho, vlhce a horce, vše bylo vlhké a horké, a pak ho najednou strhla s sebou! Proboha! Strhla mě do propasti, na jejímž dně ovšem nebylo žádné magické punkevní jezírko! Ten _náraz_ byl tak prudký, že Stach ani nestihl vykřiknout. Že ani _nemohl_ vykřiknout, tak prudce se její tvář přitiskla, byla přiražena, přitlučena k té jeho! Padal. Byl připravený na let, ne na pád! Někam dozadu Stach padal, ona s ním. Jeho ruce opustily klávesy, ani se nezmohly na poslední akord, Stach padal dozadu temným tunelem a ta dívka s ním a přímo na něho…
 
-… bolí to!…
+_… bolí to!…_
 
 … a když se konečně probral, jako první uviděl to, co chtěl ze všeho nejvíc vidět. Její nástroj. Proboha. Protože ta děvka stála nad ním, shlížela k němu a on jí viděl pod sukni. Želbohu jen nejasně, protože měl rozbité brýle. Napadlo ho dokonce v té první chvíli, že se mu to jen zdá, že se ocitl v nějakém opileckém snu, a radši zase zavřel zbaběle oči, aby unikl.
 
@@ -465,7 +463,7 @@ Vilda rozsvítí hlavní lustr. Ostré světlo se zařízne Stachovi do očí ja
 
 Stach se chce těm hodným lidem zavděčit a se vším jim pomoci: s hledáním zubu, s hledáním důstojnějšího života. Hravě by to vše dokázal, kdyby se k bolesti hlavy nepřidala stejně bodavá bolest v jícnu, jež ho v první chvíli úplně ochromila. Najednou už ví, ví a _cítí_, kde je ten zatracený a ztracený zub.
 
-Spolkl zub, který při koitu vypadl partnerce z úst.
+_Spolkl zub, který při koitu vypadl partnerce z úst._
 
 Tak zní ta slavná věta z lékařské zprávy, jíž Stach už roky – čtvrt století! – stvrzuje pravdivost své historky. Napsal ji na pohotovosti lékař tak mladičký, že jej Stach zprvu pokládal za medika; víc si z něj ovšem nepamatuje, protože jeho obluzená mysl (lehký otřes mozku) se dokázala soustředit jen na ženskou tvář, jež přihlížela jeho iniciaci: odulá a rudá tvář té kurvy, čekající na chirurga, který by měl sešít její rozdrcené rty.
 
@@ -625,6 +623,6 @@ Možná by ta hudba přece jen mohla být záchrannou brzdou toho mého vlaku, �
 
 * * *
 
-[2](./resources/undefined) Tanec smrti. Pozn. red.
+_[2](./resources/undefined) Tanec smrti. _Pozn. red.__
 
-[3](./resources/undefined) S láskou, důvěrně. Pozn. red.
+_[3](./resources/undefined) S láskou, důvěrně. _Pozn. red.__
