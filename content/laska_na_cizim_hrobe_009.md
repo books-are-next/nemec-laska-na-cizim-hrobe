@@ -3,12 +3,10 @@ title: Lůno
 contentType: prose
 ---
 
-Dynamit urovná každičkej spor  
-Žena je od Ráje podivnej tvor
+_Dynamit urovná každičkej spor  
+Žena je od Ráje podivnej tvor_
 
-Olympic
-
-  
+> Olympic
 
 Byl už starý, žil úplně sám v tom starém domě na konci města a v noci se mu nezdávalo o lvech; zdálo se mu o kočkách. Nesnášel kočky a současně k nim byl přitahován, snad že v posledních letech to byli skoro jediní živí tvorové, které každodenně pozoroval; dvůr jeho domu a ruiny kůlny byly koček a koťat plné a on se skoro každý den dušoval, že už je nebude krmit; každý večer jim však stejně hodil z okna trochu jídla, jež mu zbylo od večeře, a díval se, jak se kočky o ty zbytky perou a pak toužebně hledí vzhůru do jeho okna a mňoukají tak, až mu srdce usedalo.
 

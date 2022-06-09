@@ -3,11 +3,9 @@ title: Dírka
 contentType: prose
 ---
 
-Zatracená dírka! Co já si fčil počnu? Já mám klíč zubem navrch a zámek nemůžu přece obracet! Počkat! Co kdybych obrátil ten klíč? — A hle, dvéře se otevřely!
+> _Zatracená dírka! Co já si fčil počnu? Já mám klíč zubem navrch a zámek nemůžu přece obracet! Počkat! Co kdybych obrátil ten klíč? — A hle, dvéře se otevřely!_
 
-Rudolf Těsnohlídek, Příhody lišky Bystroušky
-
-  
+> Rudolf Těsnohlídek, Příhody lišky Bystroušky
 
 Ta ženská vycenila na Roberta zuby jako hladná _psice_ (moje oblíbené slovo) a řekla: „Dáš mi kousnout?“
 
@@ -581,10 +579,10 @@ V čemž s ním výjimečně a opatrně souhlasím – ale mění to snad na
 
 Poznámky k 2. vydání:
 
-a) Existuje ještě jeden Těsnohlídek, současný český básník. Jan, stejně jako můj syn. S tím původním nemá nic společného, jen pseudonym. Když jsem v létě roku 2010 psal (a částečně i prožíval) v Poličce tento příběh (v garsonce na náměstí, již si před lety pronajal můj syn), uviděl jsem na vývěsce hotelu Pivovar pozvánku na besedu právě s tímto mladým básníkem. Z nudy i zvědavosti jsem se na ni večer vypravil. Básník přijel později, protože právě přebíral v Praze Cenu Jiřího Ortena pro mladé tvůrce; v nejužší nominaci na tuto cenu byl toho roku i můj syn Jan za knihu povídek Hra pro čtyři ruce (jako skoro před třiceti lety na obdobnou cenu já – za román Hra na slepo); snad právě proto spisovatel Jiří Kratochvil vyprávěl po celém Brně, že synovu knihu jsem vlastně napsal já (oba – můj syn i já – jsme se tomu povinně smáli, ale obou se nás to hrozně dotklo). Jako by těch náhod a shod nebylo dost, zatímco jsem v hospodě čekal na příjezd jiného Těsnohlídka, než o kterém jsem zrovna psal, uviděl jsem u baru mladou ženu, jež mi byla okamžitě tak blízká, až se mi sevřelo srdce. Je to snad ona? Konečně ona! – dívka se žlutými lístečky? Teprve po chvíli jsem si uvědomil, že ji sice opravdu znám, ale odjinud, jmenovala se Eva a před pár lety byla přítelkyní mého syna. Když jsem to synovi telefonoval – chtěl jsem jej otcovsky utěšit, že na cenách zase tolik nezáleží, kdežto na přítelkyních ano –, řekl mi, že tato Eva je nyní dívkou tohoto Těsnohlídka. Tehdy jsem měl tento příběh možná opustit; ale to si uvědomuji až teď, když už je nejspíš pozdě.
+_a) Existuje ještě jeden Těsnohlídek, současný český básník. Jan, stejně jako můj syn. S tím původním nemá nic společného, jen pseudonym. Když jsem v létě roku 2010 psal (a částečně i prožíval) v Poličce tento příběh (v garsonce na náměstí, již si před lety pronajal můj syn), uviděl jsem na vývěsce hotelu Pivovar pozvánku na besedu právě s tímto mladým básníkem. Z nudy i zvědavosti jsem se na ni večer vypravil. Básník přijel později, protože právě přebíral v Praze Cenu Jiřího Ortena pro mladé tvůrce; v nejužší nominaci na tuto cenu byl toho roku i můj syn Jan za knihu povídek Hra pro čtyři ruce (jako skoro před třiceti lety na obdobnou cenu já – za román Hra na slepo); snad právě proto spisovatel Jiří Kratochvil vyprávěl po celém Brně, že synovu knihu jsem vlastně napsal já (oba – můj syn i já – jsme se tomu povinně smáli, ale obou se nás to hrozně dotklo). Jako by těch náhod a shod nebylo dost, zatímco jsem v hospodě čekal na příjezd jiného Těsnohlídka, než o kterém jsem zrovna psal, uviděl jsem u baru mladou ženu, jež mi byla okamžitě tak blízká, až se mi sevřelo srdce. Je to snad ona? Konečně ona! – dívka se žlutými lístečky? Teprve po chvíli jsem si uvědomil, že ji sice opravdu znám, ale odjinud, jmenovala se Eva a před pár lety byla přítelkyní mého syna. Když jsem to synovi telefonoval – chtěl jsem jej otcovsky utěšit, že na cenách zase tolik nezáleží, kdežto na přítelkyních ano –, řekl mi, že tato Eva je nyní dívkou tohoto Těsnohlídka. Tehdy jsem měl tento příběh možná opustit; ale to si uvědomuji až teď, když už je nejspíš pozdě._
 
-b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čtyři dívky, heč. Se dvěma jsem se dokonce sešel. Ale žádná z nich nebyla ta pravá, žádná se nestala mou pointou.
+_b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čtyři dívky, heč. Se dvěma jsem se dokonce sešel. Ale žádná z nich nebyla ta pravá, žádná se nestala mou pointou._
 
 * * *
 
-[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. Pozn. red.
+_[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. _Pozn. red.__

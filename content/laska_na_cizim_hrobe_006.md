@@ -3,8 +3,8 @@ title: Nějaké nebe
 contentType: prose
 ---
 
-_Mirce Slámové,  
-která zná ten příběh celý –_
+> Mirce Slámové,  
+> která zná ten příběh celý –
 
 Kdysi dávno se jmenovala Eva; tehdy byla odbornicí na lidská nitra. V den, kdy jsme spolu vedli náš poslední telefonický rozhovor, už se ale jmenovala Evita a specializovala se na lidské obaly. Slupky. Byla tak pružná, ach bože, ve všech smyslech toho slova. A všechny tyto dovednosti využila právě v tomto případu, který jsme spolu probírali.
 
@@ -94,15 +94,15 @@ Tohle konečně fungovalo. Občas sice sepnulo kontakt i kočičí mňoukání 
 
 Ovšem Evita už nebyla psycholožkou. Už dávno se etablovala jako úspěšná oděvní konzultantka. „Ty tvoje sny, Fido. Kam tě v životě dovedly? Jaké tajemné poselství ti sdělily?“
 
-Ten sen se mu nepravidelně vrací už téměř rok; nebo se snad František vrací do toho snu? To je možná přesnější, protože se v tom snu cítí tak samozřejmě, jako by se vracel domů. Je to sen o středověkém městě s úzkými uličkami a s nečitelnými nápisy na plesnivých stěnách starých domů. Čadivé plameny loučí v rezavých držácích se rozplizle odrážejí od mokré dlažby, podobně jako se Františkova tvář zrcadlí v těch nemnoha zasklených oknech, do nichž nahlíží. Protože v tom snu je vždy večer, vždy lehce mží, tváře žebráků a nočních hlídek v brnění jsou vlhké, František cítívá hnilobu a plíseň na půnebí dokonce i tehdy, když se probudí. Ale on se probudit nechce, protože i když je ten sen stísňující jako ty úzké uličky a celkově ponurá atmosféra v onom prastarém městě, on ví – v tom snu a občas dokonce i po probuzení – že v tom městě něco hledá, ne dobrodružství, ne zábavu, ani nějaké konkrétní místo, ba ani konkrétního člověka snad ne. Trochu jako v těch bojových hrách, jež hrávali v dětství ve skautu: hledáte zprávu v mrtvé schránce – a obsahem té zprávy je další úkol.
+_Ten sen se mu nepravidelně vrací už téměř rok; nebo se snad František vrací do toho snu? To je možná přesnější, protože se v tom snu cítí tak samozřejmě, jako by se vracel domů. Je to sen o středověkém městě s úzkými uličkami a s nečitelnými nápisy na plesnivých stěnách starých domů. Čadivé plameny loučí v rezavých držácích se rozplizle odrážejí od mokré dlažby, podobně jako se Františkova tvář zrcadlí v těch nemnoha zasklených oknech, do nichž nahlíží. Protože v tom snu je vždy večer, vždy lehce mží, tváře žebráků a nočních hlídek v brnění jsou vlhké, František cítívá hnilobu a plíseň na půnebí dokonce i tehdy, když se probudí. Ale on se probudit nechce, protože i když je ten sen stísňující jako ty úzké uličky a celkově ponurá atmosféra v onom prastarém městě, on ví – v tom snu a občas dokonce i po probuzení – že v tom městě něco hledá, ne dobrodružství, ne zábavu, ani nějaké konkrétní místo, ba ani konkrétního člověka snad ne. Trochu jako v těch bojových hrách, jež hrávali v dětství ve skautu: hledáte zprávu v mrtvé schránce – a obsahem té zprávy je další úkol._
 
-Ano, to pochopil František už někdy po druhém třetím opakování tohoto snu. Má splnit úkol, jenž nezná – a naléhavost toho úkolu je stejně svědivá jako jeho neznalost.
+_Ano, to pochopil František už někdy po druhém třetím opakování tohoto snu. Má splnit úkol, jenž nezná – a naléhavost toho úkolu je stejně svědivá jako jeho neznalost._
 
-Obvykle v tom snu jen chodí nočním městem, proplétá se temným bludištěm, jen vzdáleně povědomým. Jednou dá pár drobných žebrákovi bez tváře, odměnou jsou mu však jen nadávky v jazyce, který nezná. Jindy ho jiní žebráci shodí z dřevěného mostu do řeky; jindy z téže řeky pije za svítání vodu sladkou jako první polibek. I další události v tom městě jsou vlhké: jednou v tom snu plakal, jindy mu nádherná žena s tváří anděla vylila z okna na hlavu obsah nočníku. Rozesmálo ho to, zvlášť když mu pak jako omluvu hodila i bílou růži. A jiná žena, vlastně teprve dívka, dívenka sotva nadměrečná, dokonce pozve Františka k sobě do pokoje. Jediný opravdu sexuální sen z této šerosvitné série: choulila se nahá na kožešinách na kamenné podlaze, drobounká, s velkýma chtivýma očima, a když jí roztáhl hubená stehna, bez překvapení (v tom snu) zjistil, že kromě vagíny má ten tvor ještě i malý penis; strměl té dívence v místech, kde jiné ženy mívají (aspoň ve středověku) pubické ochlupení. V tom snu mu to přišlo skoro samozřejmé, nevinně nádherné a vzrušující – a vzrušený byl dokonce i tehdy, když se probudil. Okamžitě se chtěl vrátit zpátky, chtěl opět ochutnávat její stydké pysky, něžné a drobné jako okvětí, a přitom rukou hladit a vzrušovat toho půvabného čuráčka, jenž v něm nebudil ani nejmenší odpor. Jak ta dívka kníkala a prosila: ale dvojitou slastí! Ba nechybělo mnoho – říkal si František už bdělý, už docela celičký probuzený – abych ten postup neobrátil, abych nelaskal prsty její kundičku a nekouřil toho čuráčka! – Ale právě to, že jsem se v takové chvíli probudil, možná svědčí o tom, že něco takového mi není vlastní, utěšoval se. Utěšoval se ovšem bez úleku, ba dokonce s úsměvem: tak byl ten sen vzrušující a radostný! Samozřejmě to není homosexuální sen, pokračoval náš hrdina v autodiagnóze, fušuje své manželce do řemesla: to bych na něj nečekal skoro až do padesáti. Nejspíš je to jen symbol mé věčné masturbace. A tak se utěšil doopravdy, přešel z autopilota snu na manuální ovládání a při orgasmu sténal do polštáře tak hlasitě, až se Evita za zdí (za mnoha zdmi) probudila a opatrně se ptala přes dveře, není-li mu špatně.
+_Obvykle v tom snu jen chodí nočním městem, proplétá se temným bludištěm, jen vzdáleně povědomým. Jednou dá pár drobných žebrákovi bez tváře, odměnou jsou mu však jen nadávky v jazyce, který nezná. Jindy ho jiní žebráci shodí z dřevěného mostu do řeky; jindy z téže řeky pije za svítání vodu sladkou jako první polibek. I další události v tom městě jsou vlhké: jednou v tom snu plakal, jindy mu nádherná žena s tváří anděla vylila z okna na hlavu obsah nočníku. Rozesmálo ho to, zvlášť když mu pak jako omluvu hodila i bílou růži. A jiná žena, vlastně teprve dívka, dívenka sotva nadměrečná, dokonce pozve Františka k sobě do pokoje. Jediný opravdu sexuální sen z této šerosvitné série: choulila se nahá na kožešinách na kamenné podlaze, drobounká, s velkýma chtivýma očima, a když jí roztáhl hubená stehna, bez překvapení (v tom snu) zjistil, že kromě vagíny má ten tvor ještě i malý penis; strměl té dívence v místech, kde jiné ženy mívají (aspoň ve středověku) pubické ochlupení. V tom snu mu to přišlo skoro samozřejmé, nevinně nádherné a vzrušující – a vzrušený byl dokonce i tehdy, když se probudil. Okamžitě se chtěl vrátit zpátky, chtěl opět ochutnávat její stydké pysky, něžné a drobné jako okvětí, a přitom rukou hladit a vzrušovat toho půvabného čuráčka, jenž v něm nebudil ani nejmenší odpor. Jak ta dívka kníkala a prosila: ale dvojitou slastí! Ba nechybělo mnoho – říkal si František už bdělý, už docela celičký probuzený – abych ten postup neobrátil, abych nelaskal prsty její kundičku a nekouřil toho čuráčka! – Ale právě to, že jsem se v takové chvíli probudil, možná svědčí o tom, že něco takového mi není vlastní, utěšoval se. Utěšoval se ovšem bez úleku, ba dokonce s úsměvem: tak byl ten sen vzrušující a radostný! Samozřejmě to není homosexuální sen, pokračoval náš hrdina v autodiagnóze, fušuje své manželce do řemesla: to bych na něj nečekal skoro až do padesáti. Nejspíš je to jen symbol mé věčné masturbace. A tak se utěšil doopravdy, přešel z autopilota snu na manuální ovládání a při orgasmu sténal do polštáře tak hlasitě, až se Evita za zdí (za mnoha zdmi) probudila a opatrně se ptala přes dveře, není-li mu špatně._
 
-Nu, nebylo. Popravdě řečeno byl ten sen – a jeho návrat při masturbaci – sen o dívce s vagínou a penisem – Františkovým nejsilnějším (a nejšťastnějším) erotickým zážitkem v posledním desetiletí. A párkrát se k němu ještě, byť už jen bděle, vrátil.
+_Nu, nebylo. Popravdě řečeno byl ten sen – a jeho návrat při masturbaci – sen o dívce s vagínou a penisem – Františkovým nejsilnějším (a nejšťastnějším) erotickým zážitkem v posledním desetiletí. A párkrát se k němu ještě, byť už jen bděle, vrátil._
 
-Přesto však věděl, že toto – tento perverzní zážitek, toto zrcadlo v růžovém rámu – nebylo tím důvodem, proč se stále vrací ve snu do toho středověkého města. Hledal tam daleko větší tajemství: tak velké, že na ně dosud nebyl připraven.
+_Přesto však věděl, že toto – tento perverzní zážitek, toto zrcadlo v růžovém rámu – nebylo tím důvodem, proč se stále vrací ve snu do toho středověkého města. Hledal tam daleko větší tajemství: tak velké, že na ně dosud nebyl připraven._
 
 „Možná je to jen klasický sen o bludišti, v němž hledáme sami sebe,“ vysvětlila mu Evita, když se jí jednou opatrně svěřil. Jako většina psychologů totiž věřila, že sny jsou především zrcadla – ne _okna_, jak věřil František. A aby jí už dal pokoj, nabídla mu řadu knih, z nichž si vybral právě ty o _lucidním snění_: o snění, během nějž si spící člověk uvědomuje, že sní, a dokonce může svůj probíhající sen vědomě ovlivňovat. Uměli to snoví lámové, uměli to derviši a mystikové většiny náboženství, v osmdesátých letech se z této metody stala móda v USA a František po oné dovednosti také zatoužil – aby mohl v tom svém opakujícím se snu bloudit podle svého.
 
@@ -144,35 +144,35 @@ František je tu noc zkrátka hrdina; chlap, který přinutí ženskou dělat _t
 
 Tentokrát pomlčkuje Evita – – a ty dlouhé pomlčky zůstanou viset mezi jejich pokoji vlastně dodnes. Drobná Evita zůstala na té obrovské manželské posteli jako trosečník na velkém dřevěném voru (velmi spokojený trosečník), zatímco František pádloval na své noční lovy jen na úzkém _samotářském kánoi_ (ta metafora nebyla jeho vlastní, ale často si ji opakoval, když večer uléhal na úzkou tvrdou válendu po své dceři). _Každý ve své noci_: ani to nejsou jeho slova. Ale zase se mohl v pokoji nerušeně dívat v noci na porno (se staženým zvukem) – a taky snít svůj nejkrásnější sen, který už brzy –
 
-– došel naplnění. Stalo se to při šesté návštěvě snového města, krátce před Vánocemi, když už František pokročil ve svém tréninku lucidního snění natolik, že se mohl celkem oprávněně domnívat, že do té hospody vešel vědomě, na základě své vůle.
+_– došel naplnění. Stalo se to při šesté návštěvě snového města, krátce před Vánocemi, když už František pokročil ve svém tréninku lucidního snění natolik, že se mohl celkem oprávněně domnívat, že do té hospody vešel vědomě, na základě své vůle._
 
-Hospoda? Krčma to byla, středověká krčma jako z patnácté filmové adaptace Tří mušketýrů, nebo jako z některého z Brueghelových obrazů. Kouř, řev a ryk zpocených opilců, namačkaných u dlouhých dřevěných stolů. Na stolech cínové korbele s pivem a vínem, pečená stehna jakési drůbeže, svícny, pár nožů, zabodnutých zatím jen do promaštěných desek stolů. Umíme si to všichni představit, že? A přece jako by jeden z těch nožů projel i Františkovým srdcem, když vstoupí do té krčmy a spatří krčmářku.
+_Hospoda? Krčma to byla, středověká krčma jako z patnácté filmové adaptace Tří mušketýrů, nebo jako z některého z Brueghelových obrazů. Kouř, řev a ryk zpocených opilců, namačkaných u dlouhých dřevěných stolů. Na stolech cínové korbele s pivem a vínem, pečená stehna jakési drůbeže, svícny, pár nožů, zabodnutých zatím jen do promaštěných desek stolů. Umíme si to všichni představit, že? A přece jako by jeden z těch nožů projel i Františkovým srdcem, když vstoupí do té krčmy a spatří krčmářku._
 
-Ani tu ženu není obtížné popsat. Tmavá, smavá, jiskrná. Kterákoli Carmen (odněkud z patnácté řady). Pro pamětníky Gina Lollobrigida v nejlepší formě, pro mladší ročníky třeba Eva Mendes – a třebaže si tyto dvě herečky nejsou zase tak podobné, zmiňujeme je především pro výraznou filmovost té scény. Snědá ženská s uhlově černými vlasy, s velkýma černýma očima, s blýskavými zuby při smíchu, s nímž odstrkuje lačné mužské ruce. Bílá jupka s krátkými rukávy, jež odhalují pevně tvarované paže, z nichž každá lehce zvládá tác s několika plnými cínovými korbeli. Široká ňadra, mezi nimi zlatý křížek; rudá vestička, dlouhá zelená sukně, jež sice skrývá nohy, nicméně rozhodně neutají široké krouživé boky a výrazný zadek. Prostě Carmen, tak nějak.
+_Ani tu ženu není obtížné popsat. Tmavá, smavá, jiskrná. Kterákoli Carmen (odněkud z patnácté řady). Pro pamětníky Gina Lollobrigida v nejlepší formě, pro mladší ročníky třeba Eva Mendes – a třebaže si tyto dvě herečky nejsou zase tak podobné, zmiňujeme je především pro výraznou filmovost té scény. Snědá ženská s uhlově černými vlasy, s velkýma černýma očima, s blýskavými zuby při smíchu, s nímž odstrkuje lačné mužské ruce. Bílá jupka s krátkými rukávy, jež odhalují pevně tvarované paže, z nichž každá lehce zvládá tác s několika plnými cínovými korbeli. Široká ňadra, mezi nimi zlatý křížek; rudá vestička, dlouhá zelená sukně, jež sice skrývá nohy, nicméně rozhodně neutají široké krouživé boky a výrazný zadek. Prostě Carmen, tak nějak._
 
-Klapka, záběr první (v podkresu flamenco). František stojí nahoře na schodech. Ona si ho všimne, vzhlíží k němu. Ukloní se novému hostu tak, až by František mohl spatřit krásu jejích ňader, kdyby se ovšem dokázal vymanit očima z jejích očí, hlubokých a třpytivých jako démanty noci (je to film, proto Františkovi naskakují tyto filmové asociace). Ona se usmívá, tím vřelým, nicméně automatickým úsměvem krčmářky; sotvaže však vidí vážnost a téměř jakýsi úlek v cizincově tváři, i ona ihned zvážní. I ona se ulekne.
+_Klapka, záběr první (v podkresu flamenco). František stojí nahoře na schodech. Ona si ho všimne, vzhlíží k němu. Ukloní se novému hostu tak, až by František mohl spatřit krásu jejích ňader, kdyby se ovšem dokázal vymanit očima z jejích očí, hlubokých a třpytivých jako démanty noci (je to film, proto Františkovi naskakují tyto filmové asociace). Ona se usmívá, tím vřelým, nicméně automatickým úsměvem krčmářky; sotvaže však vidí vážnost a téměř jakýsi úlek v cizincově tváři, i ona ihned zvážní. I ona se ulekne._
 
-Vzápětí už František sedí dole v krčmě, v té páchnoucí udírně. Sám v koutě u prázdné bečky, jež nahrazuje stůl: nikdo z mužů u dlouhých stolů mu neuvolnil místo, všichni pozorují cizince nepřátelsky a výhružně. Ty zvířecí obličeje, zpustošené chlastem a nenávistí, ty nažloutlé mrtvolné ksichty! Ale co je mu po nich, když může pozorovat tu ženu, jak krouží v tomto pekle s kulatými tácy v rukou, jak vykružuje prostor svými boky a zadkem, až konečně dospěje na své oběžné dráze k Františkovi. Je temnou kometou, jež se jen na okamžik rozzáří v mé blízkosti – nebo se stane trvalou oběžnicí, prozařující můj svět? Nebo se na mě zřítí jako létavice, v extázi žáru a světla? Těžko říct: ale slapové síly, jež přitažlivost té ženy vyvolává ve Františkově nitru, jsou tak obrovské, že hrozí rozsáhlá zemětřesení s erupcemi vroucího magmatu!
+_Vzápětí už František sedí dole v krčmě, v té páchnoucí udírně. Sám v koutě u prázdné bečky, jež nahrazuje stůl: nikdo z mužů u dlouhých stolů mu neuvolnil místo, všichni pozorují cizince nepřátelsky a výhružně. Ty zvířecí obličeje, zpustošené chlastem a nenávistí, ty nažloutlé mrtvolné ksichty! Ale co je mu po nich, když může pozorovat tu ženu, jak krouží v tomto pekle s kulatými tácy v rukou, jak vykružuje prostor svými boky a zadkem, až konečně dospěje na své oběžné dráze k Františkovi. Je temnou kometou, jež se jen na okamžik rozzáří v mé blízkosti – nebo se stane trvalou oběžnicí, prozařující můj svět? Nebo se na mě zřítí jako létavice, v extázi žáru a světla? Těžko říct: ale slapové síly, jež přitažlivost té ženy vyvolává ve Františkově nitru, jsou tak obrovské, že hrozí rozsáhlá zemětřesení s erupcemi vroucího magmatu!_
 
-Bože, dej, ať se teď ještě neprobudím, modlí se František ve své posteli, synchronizovaný s tím Františkem ve snu. Oba Františkové mají na krajíčku poluci i pláč, oba hluboce vzdychají a zatínají nehty: jeden do přikrývky, druhý do zčernalého dřeva bečky.
+_Bože, dej, ať se teď ještě neprobudím, modlí se František ve své posteli, synchronizovaný s tím Františkem ve snu. Oba Františkové mají na krajíčku poluci i pláč, oba hluboce vzdychají a zatínají nehty: jeden do přikrývky, druhý do zčernalého dřeva bečky._
 
-Bůh (či nějaký jiný režisér) mu dovolí, aby ještě zůstal. Jenže ta žena, to temné světlo, mu zblízka řekne do ucha:
+_Bůh (či nějaký jiný režisér) mu dovolí, aby ještě zůstal. Jenže ta žena, to temné světlo, mu zblízka řekne do ucha:_
 
-„Běž pryč.“
+_„Běž pryč.“_
 
-„Přišel jsem kvůli tobě.“
+_„Přišel jsem kvůli tobě.“_
 
-„Běž hned pryč, než tě zabijí.“
+_„Běž hned pryč, než tě zabijí.“_
 
-„Nebojím se.“
+_„Nebojím se.“_
 
-„Když se někde se mnou sejdeš o samotě, ostatní tě pak zabijí, protože harmonie světa nesmí být porušena.“
+_„Když se někde se mnou sejdeš o samotě, ostatní tě pak zabijí, protože harmonie světa nesmí být porušena.“_
 
-V rozporu s tak patetickou větou se ona žena – ta temná kometa! – posměšně zasměje a pleskne Františka mokrou utěrkou škádlivě přes tvář. On si objedná červené víno, ale ona mu donese čistou vodu. Nakloní se nad ním a řekne:
+_V rozporu s tak patetickou větou se ona žena – ta temná kometa! – posměšně zasměje a pleskne Františka mokrou utěrkou škádlivě přes tvář. On si objedná červené víno, ale ona mu donese čistou vodu. Nakloní se nad ním a řekne:_
 
-„Tak přijď dnes večer nahoru na kopec.“
+_„Tak přijď dnes večer nahoru na kopec.“_
 
-Její dech je myrha a heřmánek, František však cítí i její pohlaví. Chce se ještě na něco zeptat, ale ona už jen kroutí hlavou a pak ukazuje prstem vzhůru. Ach bože! – František ještě nikdy neviděl tak nádherný úd jako ten snědý ženský prst, mířící vzhůru k obloze. Do nějakého nebe? A vzápětí už je František (v tom snu; v tom snu?) opravdu skoro v nebi, pod šírošírou oblohou na kopci nad městem, neboť sny pracovaly s filmovými střihy už půl miliónu let před Ejzenštejnem.
+_Její dech je myrha a heřmánek, František však cítí i její pohlaví. Chce se ještě na něco zeptat, ale ona už jen kroutí hlavou a pak ukazuje prstem vzhůru. Ach bože! – František ještě nikdy neviděl tak nádherný úd jako ten snědý ženský prst, mířící vzhůru k obloze. Do nějakého nebe? A vzápětí už je František (v tom snu; v tom snu?) opravdu skoro v nebi, pod šírošírou oblohou na kopci nad městem, neboť sny pracovaly s filmovými střihy už půl miliónu let před Ejzenštejnem._
 
 „Nikdy v životě jsem necítil takový klid a štěstí, jako když jsem seděl na tom kopci,“ říká mi František. „Jako když jsem seděl na tom kopci a čekal na tu ženskou.“
 
@@ -184,50 +184,50 @@ Co na to říct? Že neexistuje jediná možnost, jak zjistit, že tohle všechn
 
 „Znáš tyhle Máchovy verše?“ řekne mi. A než stačím zalhat, že znám všechny Máchovy verše, pustí se do recitace:
 
-> „_Jaké to oudů toužení,  
-> chtí opět býti jedno jen.  
-> Jaké to strašné hemžení,  
-> můj nový sen. – Můj nový sen! –_“
+_„_Jaké to oudů toužení,  
+chtí opět býti jedno jen.  
+Jaké to strašné hemžení,  
+můj nový sen. – Můj nový sen! –_“_
 
 Kavárna je naštěstí prázdná, a tak si troufnu tiše zatleskat. Bohužel tím přivolám číšnici, která s námi při objednávce dalšího vína znuděně flirtuje. Je možná krásnější než její kolegyně z Františkova snu – ale já už najednou nechci žádné _hemžení_! Ačkoliv se tvářím tak blazeovaně (to je má specializace pro toto vyprávění), najednou už se nemůžu dočkat, až bude František pokračovat.
 
-Nějaké nebe? Stmívá se. Hodina mezi psem a vlkem: František ví, že tak se nazývá šírání a ne stmívání, ale právě tato zvířata slyší výt, v dáli i v sobě. Obloha nad městem je purpurová jako čerstvě prolitá krev, ale jinak je ten pozdní soumrak plný klidu a smíru – opět vůkol i uvnitř. Travnatý kopec, oblý a laskavý jako ženské ňadro. František sedí na jeho bradavce, zády se opíraje o jakýsi dřevěný trám, snad kříž, snad šibenici: musel by zvednout oči, aby zjistil ten rozdíl, ale ani jedna z možností mu za to nestojí, veškerá jeho pozornost je upřena dolů k městu, jež se zahaluje do mlhy a dýmu.
+_Nějaké nebe? Stmívá se. Hodina mezi psem a vlkem: František ví, že tak se nazývá šírání a ne stmívání, ale právě tato zvířata slyší výt, v dáli i v sobě. Obloha nad městem je purpurová jako čerstvě prolitá krev, ale jinak je ten pozdní soumrak plný klidu a smíru – opět vůkol i uvnitř. Travnatý kopec, oblý a laskavý jako ženské ňadro. František sedí na jeho bradavce, zády se opíraje o jakýsi dřevěný trám, snad kříž, snad šibenici: musel by zvednout oči, aby zjistil ten rozdíl, ale ani jedna z možností mu za to nestojí, veškerá jeho pozornost je upřena dolů k městu, jež se zahaluje do mlhy a dýmu._
 
-Takový klid.
+_Takový klid._
 
-Takový klid cítí František v duši, jako snad ještě nikdy ne.
+_Takový klid cítí František v duši, jako snad ještě nikdy ne._
 
-Klid a naplnění.
+_Klid a naplnění._
 
-Tím naplněním si je František jistý, to je základ jeho klidu. Klidný a soustředěný jako střelec čekající na ty, kdož přijdou. Na to, co přijde. Tětiva jeho luku se chvěje, ale on už ne. Očima i srdcem upřen na dvě cesty z města, stoupající od dvou bran pod věžemi přímo k němu: dvě pískově žluté přímky na zeleném papíře pastvin, odvěsny rovnoramenného trojúhelníka, jehož je on vrcholem. (I v tom snu si uvědomuje, že jde o vrchol a vyvrcholení, nejen v sexuálním slova smyslu.)
+_Tím naplněním si je František jistý, to je základ jeho klidu. Klidný a soustředěný jako střelec čekající na ty, kdož přijdou. Na to, co přijde. Tětiva jeho luku se chvěje, ale on už ne. Očima i srdcem upřen na dvě cesty z města, stoupající od dvou bran pod věžemi přímo k němu: dvě pískově žluté přímky na zeleném papíře pastvin, odvěsny rovnoramenného trojúhelníka, jehož je on vrcholem. (I v tom snu si uvědomuje, že jde o vrchol a vyvrcholení, nejen v sexuálním slova smyslu.)_
 
-Přijď, říká si – a nemyslí jen tu ženu.
+_Přijď, říká si – a nemyslí jen tu ženu._
 
-Ona stoupá po pravé z cest. Je od něj vzdálena asi kilometr, na tu vzdálenost by ji neměl v šeru ani poznat – ale tohle je sen, v něm vidíme jinak, opravdu vidíme. František vidí nejen bílou halenku té ženy, nejen její udýchaně rozhoupaná ňadra a vlající lem sukně, sbírající pyl z květů podél úzké cesty – ale vidí i záblesky jejích silných zubů v úsměvu tak trochu dravčím a neméně blýskavá bělma těch velkých očí. Ty oči se upírají přímo na něj, přímo do něj: stále, jak ta žena stoupá na kopec, jak stoupá k němu.
+_Ona stoupá po pravé z cest. Je od něj vzdálena asi kilometr, na tu vzdálenost by ji neměl v šeru ani poznat – ale tohle je sen, v něm vidíme jinak, opravdu vidíme. František vidí nejen bílou halenku té ženy, nejen její udýchaně rozhoupaná ňadra a vlající lem sukně, sbírající pyl z květů podél úzké cesty – ale vidí i záblesky jejích silných zubů v úsměvu tak trochu dravčím a neméně blýskavá bělma těch velkých očí. Ty oči se upírají přímo na něj, přímo do něj: stále, jak ta žena stoupá na kopec, jak stoupá k němu._
 
-Přijď, říká si František – a teď už myslí jen na ni. Nemáme moc času.
+_Přijď, říká si František – a teď už myslí jen na ni. Nemáme moc času._
 
-Protože po druhé z cest stoupají ti muži, opilci z krčmy, a za nimi ještě oplechovaní biřici, čepele jejich zbraní a přilbic se v zapadajícím slunci růžově lesknou. Už je vidět jejich zvířecí ksichty, už je slyšet jejich zuřivé klení, když zjišťují, že se nedostanou na vrchol dřív než ona lehkonohá žena. Už je vidět jakousi uťatou hlavu na jednom z kopí. Už se rozběhli.
+_Protože po druhé z cest stoupají ti muži, opilci z krčmy, a za nimi ještě oplechovaní biřici, čepele jejich zbraní a přilbic se v zapadajícím slunci růžově lesknou. Už je vidět jejich zvířecí ksichty, už je slyšet jejich zuřivé klení, když zjišťují, že se nedostanou na vrchol dřív než ona lehkonohá žena. Už je vidět jakousi uťatou hlavu na jednom z kopí. Už se rozběhli._
 
-Ovšem František je nadále naplněn klidem – jako balón héliem. Snad by mohl i vzlétnout, kdyby se pevně nedržel šibenice (nebo kříže). Ale on nejen že nesmí, on nechce uniknout. Ani s tou ženou v záchranném koši ne. Tuhle smrt si musím odžít, říká si pořád tak klidně a šťastně.
+_Ovšem František je nadále naplněn klidem – jako balón héliem. Snad by mohl i vzlétnout, kdyby se pevně nedržel šibenice (nebo kříže). Ale on nejen že nesmí, on nechce uniknout. Ani s tou ženou v záchranném koši ne. Tuhle smrt si musím odžít, říká si pořád tak klidně a šťastně._
 
-Smrt? Pomyslí si František v tom snu.
+_Smrt? Pomyslí si František v tom snu._
 
-Pomyslí si klidně.
+_Pomyslí si klidně._
 
-Nemůžu se dočkat – té ženy, ani té smrti.
+_Nemůžu se dočkat – té ženy, ani té smrti._
 
-Staniž se.
+_Staniž se._
 
-(Skoro se to ostýchám říct – jako se mi to ostýchal vyprávět František.)
+_(Skoro se to ostýchám říct – jako se mi to ostýchal vyprávět František.)_
 
-Protože jak František v tom snu už už už cítí tu ženu, konečně si uvědomí, že kromě zázraku zrození pocítí v nejbližších okamžicích i opak. Smrt. Vlastní smrt. František konečně pochopí, že záhy po svém naplnění lásky bude zabit, ubit, rozdrásán. Mohl by se samozřejmě ještě otočit a zmizet v temných skrýších noci – ale to uvádíme jen pro úplnost. Neudělal by to snad ani v opravdovém životě, natožpak ve snu. Bude zabit, zemře. Zemře kvůli té ženě.
+_Protože jak František v tom snu už už už cítí tu ženu, konečně si uvědomí, že kromě zázraku zrození pocítí v nejbližších okamžicích i opak. Smrt. Vlastní smrt. František konečně pochopí, že záhy po svém naplnění lásky bude zabit, ubit, rozdrásán. Mohl by se samozřejmě ještě otočit a zmizet v temných skrýších noci – ale to uvádíme jen pro úplnost. Neudělal by to snad ani v opravdovém životě, natožpak ve snu. Bude zabit, zemře. Zemře kvůli té ženě._
 
-Nemůžu se dočkat té smrti.
+_Nemůžu se dočkat té smrti._
 
-A až to je, trpěliví moji, na tomto snu nejkrásnější. Teprve toto je (pro Františka snícího i pro Františka bdělého) oním opravdovým vyvrcholením, oním naplněním. Že neuteče, že zemře kvůli něčemu, zač stojí zemřít, že neumře nemilován a neumře zbytečně. Teprve tato přislíbená smrt (na kterou už se skoro těší) dává jeho životu rozměr a smysl, teprve tato smrt, možná spíše neútěk před ní, maže dlužné čárky na futrech dveří, jimiž už brzy naposledy projde.
+_A až to je, trpěliví moji, na tomto snu nejkrásnější. Teprve toto je (pro Františka snícího i pro Františka bdělého) oním opravdovým vyvrcholením, oním naplněním. Že neuteče, že zemře kvůli něčemu, zač stojí zemřít, že neumře nemilován a neumře zbytečně. Teprve tato přislíbená smrt (na kterou už se skoro těší) dává jeho životu rozměr a smysl, teprve tato smrt, možná spíše neútěk před ní, maže dlužné čárky na futrech dveří, jimiž už brzy naposledy projde._
 
-Opírá se o šibenici (nebo kříž) a cítí, jak se soumračná země otáčí právě kolem této osy. Nějaký pták vykřikne v temnotě nad jeho hlavou, ostře a jasně jako rána nožem. Ta žena už je tak blízko, že František cítí její dech; stejně tak cítí dusot nohou běžících biřiců. Oboje slibuje naplnění. Nic už nemůže v tom snu (v tomto životě) přebít tento pocit, a tak se František vědomě probouzí. V očích má slzy a za nehty třísky, jež si nechce dát vytáhnout, dokud se nezanítí.
+_Opírá se o šibenici (nebo kříž) a cítí, jak se soumračná země otáčí právě kolem této osy. Nějaký pták vykřikne v temnotě nad jeho hlavou, ostře a jasně jako rána nožem. Ta žena už je tak blízko, že František cítí její dech; stejně tak cítí dusot nohou běžících biřiců. Oboje slibuje naplnění. Nic už nemůže v tom snu (v tomto životě) přebít tento pocit, a tak se František vědomě probouzí. V očích má slzy a za nehty třísky, jež si nechce dát vytáhnout, dokud se nezanítí._
 
 Dlouho váhal, zda se svěřit Evitě i s tímto snem. Není to na manželský hovor přece jen příliš osobní? Ale nakonec svedl svou bezohlednou upřímnost (jež obvykle není ani mně moc milá) na zvědavost, zda si Evita dokáže zachovat profesionální přístup i odstup, k nimž byla kdysi vycvičena.
 
@@ -317,7 +317,7 @@ Evita se usmívá. Profesionálně. Už se rozhodla. Profesionálně? Na kuráž
 
 „Oplatím jí to.“
 
-Na tom kopci to bylo opravdové. Hluboké. Intenzívní. I péro mi stálo, pár vteřin před smrtí. A ona to viděla, ona to věděla, věděla, co se stane, až se obejmeme. Voněla potem a pylem květů, jímž mě opylovala. Věděla, zaplatíme za píchání jako včely. Nebylo to píchání, láska to byla. Usmívala se, i když věděla, co bude následovat. Tolik se na tu smrt těším.
+_Na tom kopci to bylo opravdové. Hluboké. Intenzívní. I péro mi stálo, pár vteřin před smrtí. A ona to viděla, ona to věděla, věděla, co se stane, až se obejmeme. Voněla potem a pylem květů, jímž mě opylovala. Věděla, zaplatíme za píchání jako včely. Nebylo to píchání, láska to byla. Usmívala se, i když věděla, co bude následovat. Tolik se na tu smrt těším._
 
 „Tak na co máš dnes chuť?“ ptá se Evita s úsměvem… jenž ovšem Františkovi připomíná úsměv servírky půl hodiny před zavíračkou. Hotovky už došly, snad jen speciality. Ale František by chtěl být co nejdřív hotový, dnes už touží jen po jednoduchosti.
 
@@ -419,69 +419,69 @@ To bolí. Je jako naše kočka: ta potvora ví, kam zatnout drápky. A pak to b
 
 Řekla to ještě jednou – nebo se mi to už jen zdá?
 
-Dnes zjistíš, že to všechno byly jen předpremiéry…
+_Dnes zjistíš, že to všechno byly jen předpremiéry…_
 
-… a premiéra už je tady, filmový sen se opravdu záhy (po hodině spánku? po čtyřech?) vrací, tentokrát ovšem nikoli v interaktivní podobě lucidního snu, ale doslova jako sen o filmu. O filmu, v němž František hraje hlavní roli.
+_… a premiéra už je tady, filmový sen se opravdu záhy (po hodině spánku? po čtyřech?) vrací, tentokrát ovšem nikoli v interaktivní podobě lucidního snu, ale doslova jako sen o filmu. O filmu, v němž František hraje hlavní roli._
 
-Ale kdo k tomu filmu napsal scénář? Pomyslí si František i v tom snu znepokojeně. Snad ne já?
+_Ale kdo k tomu filmu napsal scénář? Pomyslí si František i v tom snu znepokojeně. Snad ne já?_
 
-Jenže na pochybnosti už není čas, protože kamera už běží – i když kameramana dosud nevidět. František opět sedí na travnatém kopci nad městem, opřen zády o dřevěný kříž, jenž je však zasazen do země obráceně; jak jinak vysvětlit, že František je za obě ruce – polosedě, pololeže – pevně připoután k ramenům toho kříže? Kdo mě tak ukřižoval, kdo tak drasticky změnil můj sen?
+_Jenže na pochybnosti už není čas, protože kamera už běží – i když kameramana dosud nevidět. František opět sedí na travnatém kopci nad městem, opřen zády o dřevěný kříž, jenž je však zasazen do země obráceně; jak jinak vysvětlit, že František je za obě ruce – polosedě, pololeže – pevně připoután k ramenům toho kříže? Kdo mě tak ukřižoval, kdo tak drasticky změnil můj sen?_
 
-Je to jen symbol, vysvětluje mu manželka Evita, která v tomto snu kupodivu sedí vedle něj na skládací plátěné židličce s nápisem COSTUME DESIGNER a chroupe popcorn.
+_Je to jen symbol, vysvětluje mu manželka Evita, která v tomto snu kupodivu sedí vedle něj na skládací plátěné židličce s nápisem COSTUME DESIGNER a chroupe popcorn._
 
-Jakej zas zasranej symbol?
+_Jakej zas zasranej symbol?_
 
-Že už ti ani pánbů nepomůže.
+_Že už ti ani pánbů nepomůže._
 
-František se vzepře, František se zmítá – ale je k tomu vyvrácenému kříži připoután opravdu pevně. Neztrácí nicméně naději (v tom filmovém snu), neboť vysvobození už se blíží. Vysvobození ze všeho: ta žena z krčmy, samozřejmě. Ta žena se k němu blíží, ta žena k němu stoupá na jeho kopec, na jeho horu. Zadýchaná chůzí, zadýchaná vzrušením, zadýchaná očekáváním věcí příštích. Láska je ta věc příští, ta věc poslední. Každý touží po lásce, idiote. Její pevná stehna roztančují sukni, pod propocenou bílou halenou nemá podprsenku a prosvítající hroty ňader rozhodně nejsou žádná citace. Její snědá oblá ramena podpírají fialovou oblohu. A její tvář –
+_František se vzepře, František se zmítá – ale je k tomu vyvrácenému kříži připoután opravdu pevně. Neztrácí nicméně naději (v tom filmovém snu), neboť vysvobození už se blíží. Vysvobození ze všeho: ta žena z krčmy, samozřejmě. Ta žena se k němu blíží, ta žena k němu stoupá na jeho kopec, na jeho horu. Zadýchaná chůzí, zadýchaná vzrušením, zadýchaná očekáváním věcí příštích. Láska je ta věc příští, ta věc poslední. Každý touží po lásce, idiote. Její pevná stehna roztančují sukni, pod propocenou bílou halenou nemá podprsenku a prosvítající hroty ňader rozhodně nejsou žádná citace. Její snědá oblá ramena podpírají fialovou oblohu. A její tvář –_
 
-Můj bože, kam jen se poděla její tvář?
+_Můj bože, kam jen se poděla její tvář?_
 
-Protože František až teď vidí, že ta žena – moje jediná žena! – má na tváři masku. Svou vlastní masku, masku v podobě své tváře, proto jsem si toho dřív nevšiml. Její matný lesk pokládal za pot: ale je to lak na masce, v níž by opravdu mohla tančit Carmen.
+_Protože František až teď vidí, že ta žena – moje jediná žena! – má na tváři masku. Svou vlastní masku, masku v podobě své tváře, proto jsem si toho dřív nevšiml. Její matný lesk pokládal za pot: ale je to lak na masce, v níž by opravdu mohla tančit Carmen._
 
-Nasadili na tebe jen dublérku, vysvětluje mu Evita na židličce vedle něj. Proto ta maska, chudáčku. Sama jsem ji pomáhala vyrobit. Mám si ji večer nasadit a ošukat tě?
+_Nasadili na tebe jen dublérku, vysvětluje mu Evita na židličce vedle něj. Proto ta maska, chudáčku. Sama jsem ji pomáhala vyrobit. Mám si ji večer nasadit a ošukat tě?_
 
-Ne! Vykřikne František v tom kině ve snu.
+_Ne! Vykřikne František v tom kině ve snu._
 
-Ne! Vykřikne František doma v posteli, aniž se byl probudil; ale kočka Čikolína, jež dosud ležela na jeho prsou, vyskočí tak prudce, až propíchne drápy jeho nahou kůži mnohem bolestivěji než před chvílí manželčina injekce. Ale ani tato bolest Františka neprobudí.
+_Ne! Vykřikne František doma v posteli, aniž se byl probudil; ale kočka Čikolína, jež dosud ležela na jeho prsou, vyskočí tak prudce, až propíchne drápy jeho nahou kůži mnohem bolestivěji než před chvílí manželčina injekce. Ale ani tato bolest Františka neprobudí._
 
-A když vykřikne do třetice, ta žena v masce jej uslyší. Zastaví se. Dívá se zblízka do kamer. Ve velkém detailu bude zachycen její jazyk, jak se vysouvá štěrbinou masky jako čerstvou ránou po noži. A nůž je rázem na scéně taky, protože ta žena šátrá vzadu pod svou sukní, aby vzápětí vytáhla do záběru velký nůž se širokou čepelí, jež se (samozřejmě) krvavě zablýskne v odlesku soumraku. S tím nožem v ruce se dívá přímo do kamery ve Františkově hlavě.
+_A když vykřikne do třetice, ta žena v masce jej uslyší. Zastaví se. Dívá se zblízka do kamer. Ve velkém detailu bude zachycen její jazyk, jak se vysouvá štěrbinou masky jako čerstvou ránou po noži. A nůž je rázem na scéně taky, protože ta žena šátrá vzadu pod svou sukní, aby vzápětí vytáhla do záběru velký nůž se širokou čepelí, jež se (samozřejmě) krvavě zablýskne v odlesku soumraku. S tím nožem v ruce se dívá přímo do kamery ve Františkově hlavě._
 
-Mám to udělat? Šeptá hlasem tak vroucím. A její asfaltové oči nejsou maska, ani ten jazyk mezi lakovanými rty ne.
+_Mám to udělat? Šeptá hlasem tak vroucím. A její asfaltové oči nejsou maska, ani ten jazyk mezi lakovanými rty ne._
 
-Udělej to. Prosím.
+_Udělej to. Prosím._
 
-Odpovídá František, aniž tuší, oč vlastně prosí. Chce mě zabít – nebo přeříznout má pouta? A co by vlastně bylo krásnější? Co bych si přál víc? Co by bylo větším vysvobozením?
+_Odpovídá František, aniž tuší, oč vlastně prosí. Chce mě zabít – nebo přeříznout má pouta? A co by vlastně bylo krásnější? Co bych si přál víc? Co by bylo větším vysvobozením?_
 
-Už mám té frašky dost, říká Evita vedle něj. To je tragédie, nebo parodie? Kdo tuhle sračku vůbec natáčí?
+_Už mám té frašky dost, říká Evita vedle něj. To je tragédie, nebo parodie? Kdo tuhle sračku vůbec natáčí?_
 
-A ta žena s napřaženým nožem jako by její slova zaslechla. Sekne po Evitě nožem, až jí křížem přetne rty, z nichž se valí krev přímo do sáčku s popcornem. Komparzisté všude kolem – jsou to ti opilci z krčmy, až teď si jich František všimne – vykřiknou nadšením! A když žena s plastovou maskou vrazí dalším pohybem svůj nůž přímo do Evitina srdce, celý štáb na kopci aplauduje.
+_A ta žena s napřaženým nožem jako by její slova zaslechla. Sekne po Evitě nožem, až jí křížem přetne rty, z nichž se valí krev přímo do sáčku s popcornem. Komparzisté všude kolem – jsou to ti opilci z krčmy, až teď si jich František všimne – vykřiknou nadšením! A když žena s plastovou maskou vrazí dalším pohybem svůj nůž přímo do Evitina srdce, celý štáb na kopci aplauduje._
 
-Ne tak František, v tom snu. Necítí bolest ani úlek, jen jakýsi druh nechápavého zoufalství. Copak jsem snad neměl zemřít já? Smrtí úžasnou a naplňující? Copak snad budu i o tohle okraden?
+_Ne tak František, v tom snu. Necítí bolest ani úlek, jen jakýsi druh nechápavého zoufalství. Copak jsem snad neměl zemřít já? Smrtí úžasnou a naplňující? Copak snad budu i o tohle okraden?_
 
-Udělám to, řekne ta žena. A když nahlédne do rozevřeného scénáře, který jí podala mladičká asistentka, sama vykřikne: Akce!
+_Udělám to, řekne ta žena. A když nahlédne do rozevřeného scénáře, který jí podala mladičká asistentka, sama vykřikne: Akce!_
 
-A dalším seknutím nožem přetíná pásek Františkových kalhot, aby se dostala k jeho penisu. (Stál mě v Zaře skoro šest stovek! Poleká se František na posteli.) Ale Františkův penis nelituje, Františkův penis jí jde naproti, navzdory tomu noži; nebo snad kvůli němu? A záhy už i František vidí, čemu že jde v ústrety. Protože ona si vyhrnuje svou zelenou sukni až vysoko nad pas, pak ještě jednu spodničku, a ještě jednu rudou. Teprve pak uvidí František její lůno, její život (jiná slova ho v tom snu nenapadají). Poleká se jako chlapec, tenkrát ve dvanácti, když poprvé viděl ženský klín. Poleká se a je zklamaný, taky podobně jako ten chlapec, jen z jiného důvodu. Protože i tato žena je vyholená, její výrazné stydké pysky se lesknou jako naolejované a poštěvák připomíná kapličku na kopci nad rozeklaným údolím –
+_A dalším seknutím nožem přetíná pásek Františkových kalhot, aby se dostala k jeho penisu. (Stál mě v Zaře skoro šest stovek! Poleká se František na posteli.) Ale Františkův penis nelituje, Františkův penis jí jde naproti, navzdory tomu noži; nebo snad kvůli němu? A záhy už i František vidí, čemu že jde v ústrety. Protože ona si vyhrnuje svou zelenou sukni až vysoko nad pas, pak ještě jednu spodničku, a ještě jednu rudou. Teprve pak uvidí František její lůno, její život (jiná slova ho v tom snu nenapadají). Poleká se jako chlapec, tenkrát ve dvanácti, když poprvé viděl ženský klín. Poleká se a je zklamaný, taky podobně jako ten chlapec, jen z jiného důvodu. Protože i tato žena je vyholená, její výrazné stydké pysky se lesknou jako naolejované a poštěvák připomíná kapličku na kopci nad rozeklaným údolím –_
 
-Ale Františka ten pohled příliš nepovzbudí. Nevzruší. To udělá až ona, obratnou rukou. A stejně obratně mu pak nasadí prezervativ, který vytáhla ze svého kapsáře. Ne středověký prezervativ z ovčích střívek nebo rybího měchýře, ale soudobý model SAFEX FANTASY, jak se dočetl vášnivý čtenář František na šedém obalu, jejž ta žena roztrhla zuby.
+_Ale Františka ten pohled příliš nepovzbudí. Nevzruší. To udělá až ona, obratnou rukou. A stejně obratně mu pak nasadí prezervativ, který vytáhla ze svého kapsáře. Ne středověký prezervativ z ovčích střívek nebo rybího měchýře, ale soudobý model SAFEX FANTASY, jak se dočetl vášnivý čtenář František na šedém obalu, jejž ta žena roztrhla zuby._
 
-Jsou na to bezpečnostní směrnice, vysvětlí Františkovi, když na něj nasedne.
+_Jsou na to bezpečnostní směrnice, vysvětlí Františkovi, když na něj nasedne._
 
-Sundej si tu masku, prosí František.
+_Sundej si tu masku, prosí František._
 
-Až si ji sundáš ty.
+_Až si ji sundáš ty._
 
-Ale František má svázané ruce, úplně ve všech svých snech. Co mi to Evita píchla za svinstvo? Říká si ještě někde mezi těmi sny, když se snaží využít svých natrénovaných schopností je ovládat. Ale ta sexuální rozkoš je tak naléhavá, že se nedokáže na zvládnutí svého snu soustředit.
+_Ale František má svázané ruce, úplně ve všech svých snech. Co mi to Evita píchla za svinstvo? Říká si ještě někde mezi těmi sny, když se snaží využít svých natrénovaných schopností je ovládat. Ale ta sexuální rozkoš je tak naléhavá, že se nedokáže na zvládnutí svého snu soustředit._
 
-Cítí tíhu té ženy, jež na něm tancuje; ne u tyče, ale na jeho tyči.
+_Cítí tíhu té ženy, jež na něm tancuje; ne u tyče, ale na jeho tyči._
 
-Cítí její pach. Vlastně ne pach, vůně to je, nějaký těžký pižmový parfém. Dal bych přednost opravdovému pachu, pomyslí si František.
+_Cítí její pach. Vlastně ne pach, vůně to je, nějaký těžký pižmový parfém. Dal bych přednost opravdovému pachu, pomyslí si František._
 
-Je to opravdu dublérka? Pomyslí si ještě.
+_Je to opravdu dublérka? Pomyslí si ještě._
 
-A co já? Dostanu na orgasmus kaskadéra?
+_A co já? Dostanu na orgasmus kaskadéra?_
 
-A uprostřed těch zneklidňujících a jaksi zklamaných úvah František pod naléhavými údery jejího těla jaksi mimoděk vyvrcholí. Nebo ne, řekněme to přesněji a poctivěji: dostane orgasmus. Bezmála bez rozkoše. Pár lidí ze štábu zatleská, ale nijak nadšeně; kameraman si zapaluje cigaretu. Vyvrcholení se nekoná, aspoň ne v doslovném smyslu toho slova. Je to tak všední, jako by to snad bylo skutečné –
+_A uprostřed těch zneklidňujících a jaksi zklamaných úvah František pod naléhavými údery jejího těla jaksi mimoděk vyvrcholí. Nebo ne, řekněme to přesněji a poctivěji: dostane orgasmus. Bezmála bez rozkoše. Pár lidí ze štábu zatleská, ale nijak nadšeně; kameraman si zapaluje cigaretu. Vyvrcholení se nekoná, aspoň ne v doslovném smyslu toho slova. Je to tak všední, jako by to snad bylo skutečné –_
 
 – a ono to taky skutečné je. Alespoň v tomto vesmíru, do něhož se František probouzí. Doma. _Doma_? Leží dosud na zádech na posteli Svelvik, slepý, němý, spoutaný, zavalený. Opravdu zavalený – těžkým tělem nějaké ženy, která teď na něm udýchaně spočívá, jako by se na něj zhroutila. Není to Evita, jejíž váhu (i ostruhy) v sedle dobře zná. A není to ani ta neznámá žena z jeho snů, i to okamžitě pozná, třebaže ji ani nevidí. _Cizí žena_. To pochopí František okamžitě, zatímco jeho penis uvnitř ní se ještě chvěje v křeči a jeho bedra dosud lehce přirážejí proti její váze.
 
@@ -697,8 +697,8 @@ Nechci to slovo slyšet. Takže řeknu:
 
 „A nezdá se mu třeba –“
 
-– o té smavé krčmářce ve středověké krčmě? Nezdá se mu o jejím prstu, jenž ho v tom snu tak okouzlil a vzrušil? Nezdá se mu o prstu, jímž je mu ukazováno vzhůru na kopec, kde konečně dojde svého naplnění? Nezdá se mu sakra, že líže a saje právě tento prst, mířící do (nějakého) nebe?
+_– o té smavé krčmářce ve středověké krčmě? Nezdá se mu o jejím prstu, jenž ho v tom snu tak okouzlil a vzrušil? Nezdá se mu o prstu, jímž je mu ukazováno vzhůru na kopec, kde konečně dojde svého naplnění? Nezdá se mu sakra, že líže a saje právě tento prst, mířící do (nějakého) nebe?_
 
 Ale tohle už Evitě neřeknu – snad že mám podezření, zda není tato má představa nakonec pravdivá. Moc bych to svému lucidnímu snílkovi přál – ale jeho manželce to samozřejmě říct nemůžu, a nejen z ohleduplnosti. To by byl konec. Stejně to bude konec, už vím. Takové věci ale rodinný přítel neříká. Nejen kvůli Františkovi ale sním radši o jiném konci –
 
-Je ráno, dva dny po novém roce 2012. Sníh za okny růžově opalizuje jako hrouda soli v hlubokém lese u krmelce, leštěná drsnými jazýčky srnek, daňků i divokých prasat. Evita Horoščáková se probouzí ve své obrovské posteli Svelvik. Je sama. Je Eva. Ale František asi ještě nebude daleko: její palec u nohy je dosud vlhký, a její vagína kupodivu taky. Poprvé po mnoha měsících dostává chuť pomilovat se s manželem. Co chuť: touha je to! Nebo se to snad už ve spánku stalo? Ojel mě zezadu? Ne ve snu: ve spánku. Ačkoli je to trestné i trestuhodné, dnes by to Evita manželovi odpustila. Všechno je mu najednou ochotná toho růžového rána odpustit! Volá na něj něžným hlasem. Zpočátku. Dvakrát, třikrát. Pak už ovšem o trochu netrpělivěji; nakonec se jí do hlasu vloudí dokonce i strach. Oprávněný strach, protože i ona, Eva Horoščáková, za svobodna Habartová, má svou intuici. Najednou ví – ta žena v prázdné velké posteli – že manžel je pryč. Že je pryč, aniž by byl odešel. A věru: dveře od bytu jsou zamčené zevnitř, s klíčem až po jílec vsunutým do zámku, a všechna okna bytu zavřená na kličky. Pláče, ta drobná žena v bílé noční košili, a kočka Čikolína ji jaksi zlomyslně pozoruje z radiátoru topení. Uplyne řada měsíců, aniž kdokoli cokoli objasnil. Evita ani žádné vysvětlení nečeká: zná je. Přijme je. Přesto pořád vystrkuje v noci palec levé nohy zpod přikrývky. Co kdyby nějaká vlhkost –
+_Je ráno, dva dny po novém roce 2012. Sníh za okny růžově opalizuje jako hrouda soli v hlubokém lese u krmelce, leštěná drsnými jazýčky srnek, daňků i divokých prasat. Evita Horoščáková se probouzí ve své obrovské posteli Svelvik. Je sama. Je Eva. Ale František asi ještě nebude daleko: její palec u nohy je dosud vlhký, a její vagína kupodivu taky. Poprvé po mnoha měsících dostává chuť pomilovat se s manželem. Co chuť: touha je to! Nebo se to snad už ve spánku stalo? Ojel mě zezadu? Ne ve snu: ve spánku. Ačkoli je to trestné i trestuhodné, dnes by to Evita manželovi odpustila. Všechno je mu najednou ochotná toho růžového rána odpustit! Volá na něj něžným hlasem. Zpočátku. Dvakrát, třikrát. Pak už ovšem o trochu netrpělivěji; nakonec se jí do hlasu vloudí dokonce i strach. Oprávněný strach, protože i ona, Eva Horoščáková, za svobodna Habartová, má svou intuici. Najednou ví – ta žena v prázdné velké posteli – že manžel je pryč. Že je pryč, aniž by byl odešel. A věru: dveře od bytu jsou zamčené zevnitř, s klíčem až po jílec vsunutým do zámku, a všechna okna bytu zavřená na kličky. Pláče, ta drobná žena v bílé noční košili, a kočka Čikolína ji jaksi zlomyslně pozoruje z radiátoru topení. Uplyne řada měsíců, aniž kdokoli cokoli objasnil. Evita ani žádné vysvětlení nečeká: zná je. Přijme je. Přesto pořád vystrkuje v noci palec levé nohy zpod přikrývky. Co kdyby nějaká vlhkost –_
