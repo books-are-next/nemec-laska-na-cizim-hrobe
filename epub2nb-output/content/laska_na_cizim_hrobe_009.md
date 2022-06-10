@@ -3,8 +3,14 @@ title: Lůno
 contentType: prose
 ---
 
+<section>
+
 _Dynamit urovná každičkej spor  
 Žena je od Ráje podivnej tvor_
+
+</section>
+
+<section>
 
 > Olympic
 
@@ -17,6 +23,10 @@ Kromě krmení koček a rozmlouvání s bohem měl už jen jedinou věc na pr�
 Ťukání na lásku.
 
 Oba jsme bojovali o život, ale jen jeden z nás to věděl.
+
+</section>
+
+<section>
 
 Protože 7. října 2010, v neděli to bylo, dva týdny po jeho sedmaosmdesátých narozeninách, semena došla. Zatím jen jemu, já tam v ten osudový den nebyl, jezdíval jsem tam sotva jednou měsíčně. Semena došla, ačkoli je měl vždy přesně spočítaná, čtyřicet na den, sáček přibližně na měsíc. Jak se to mohlo stát, to nevěděl; možná to byl boží záměr, možná ty kurvy v balírnách chtěly ušetřit. Zjistil to v sobotu večer, když se už nedalo nic dělat, a celou noc nemohl spát. Ale byl zvyklý si poradit sám a nepropadal beznaději.
 
@@ -108,6 +118,10 @@ I lysohlavého muže na druhém konci linky asi napadaly nějaké další podob
 
 „No… tak počkejte. Já nějakou vytáhnu z postele – a pošlu ji pro ty vaše semena.“
 
+</section>
+
+<section>
+
 Při její první návštěvě jsem ji neviděl, tu děvku. Ba dokonce jsem neviděl ani následky její návštěvy na pana Drašara; když jsem za dva týdny přijel a stavil se u něj pro papírek s nákupním seznamem, jen nejasně se mi zmínil o tom, že skoro nic nepotřebuje, teď že mu chodí nakupovat jedna ochotná paní.
 
 „Katolička?“ optal jsem se. Byla to taková naše chlapácká hra: jednou se mi zmínil, že by si ještě rád našel nějakou ženskou do baráku, ale musí to být správná katolička; dokonce mě požádal, ať pošlu inzerát do křesťanského Rádia Proglas, jež občas poslouchal.
@@ -172,6 +186,10 @@ Na okamžik mi jí přijde líto. Ale hned se vzpamatuji a řeknu: „Tak jedin
 
 Chvíli si tu úžasnou moudrost přemílá v hlavě. „O bohu já nic nevím,“ řekne pak. „Ale ti Rusi, co k nám chodí, říkají o ženských úplně jiný věci.“
 
+</section>
+
+<section>
+
 Byl starý, ale ještě ne úplně senilní; samozřejmě věděl, proč za ním ta ochotná dívka ve skutečnosti chodí. Tohle semeno nebylo těžké rozlousknout. Kromě své duše a těch semen už neměl nic než dům. I dům byl starý, dokonce i v čase, který plyne domům jinak než lidem. Kdysi to býval mlýn, už v sedmnáctém století, a celou tu dobu patřil jeho předkům. Stařec s nimi občas rozmlouval, ale moc jim už nerozuměl, snad že se vyznal v úplně jiném prachu, nežli je ten moučný. Oni se věnovali prachu, jenž umožňoval lidem přežívat, on prachu s opačným účinkem. A jakýpak dnes mlýn, když u něj ani nebyla – kromě bahnitého rybníka – žádná voda; původní náhon zasypali už někdy před sto lety, dnes protínala původní mlýn místo náhonu silnice, silnička z města do hor. Z hospodářských budov a samotného mlýna na jedné straně cesty byl nyní ten bordel, obytnou část obýval on.
 
 „Jak se to stalo, nevím,“ vysvětloval té ochotné dívce, když se zeptala. Chvilku vypadala, jako že ji to zajímá, a on jí to rád vysvětlil, třebaže o tom zájmu věděl své. „Celou tu restituci vyřizovala dcera, víc než tahle půlka nám prý nepřipadla. Chtěla dokonce koupit i tu druhou půlku – tu vaši – a zřídit tu hotýlek, ale už to nestihla. Umřela. Rakovina dělohy.“
@@ -217,6 +235,10 @@ Ale ona se neurazila. V jejím světě bylo zbožím úplně všechno. „A co
 „Třeba bych pak nemusela dělat to, co si myslíte, že dělám.“
 
 Budiž Bohu žalováno, že stařec nad tím dokonce chvilku přemýšlel. Opravdu nad tím přemýšlel. A nejen tehdy v kuchyni, když seděl na židli u stolu (hrozně ho bolely nohy) a ona stála nad ním (nikdy si u něj nesedla a on věděl proč). Ten stařec nad tím přemýšlel dokonce i následující večer a noc, noci a dny. Tušil, že už mu – navzdory všem semenům – vynechává mozek. Jak jinak by bylo možné, že ta myšlenka se mu vůbec nezdá špatná, ba dokonce se mu ten důvod jeví jako nejlepší ze všech? Dokonce se o tom poradil s Bohem, s tím svým. Zachránit jednoho člověka ze semeniště hříchu, ze spárů pekelných – to přece není tak špatný důvod, že ne, Pane? Ale Bůh mlčel; buď měl dovolenou, nebo už starce prokoukl.
+
+</section>
+
+<section>
 
 Semena.
 
@@ -275,6 +297,10 @@ To slovo na své klávesnici moc často nepíšu.
 „Pokušení?“
 
 „A co by pak bylo s těma kočkama na dvoře, kdybyste ten dům prodal tomu chlapovi odnaproti? Co si tak asi myslíte, že by s těma kočkama ubohýma udělal?“
+
+</section>
+
+<section>
 
 Ale nemysleme si, že mezi tím starcem a tou kurvou – Darja se jmenovala, Darja jako dáreček – vzniklo něco jako vztah. Tohle opravdu není romantický příběh. Přišla dvakrát týdně, vždy těsně před polednem, převzala od něj lístek, co chce nakoupit, a asi za hodinku mu to přinesla. Obvykle se vůbec nezdržela, skoro nemluvila, jako by jen zatajovala dech. Věděl proč.
 
@@ -355,6 +381,10 @@ Ale o manželce stařec mluvit nechtěl, ani vzpomínat na ni ne – a kdyby 
 Seděli u stolu v kuchyni. Stařec i při řeči louskal semena, kladivo měl zrovna v ruce. Napadlo ho, že by jím mohl rozlousknout i Hájkovu hlavu, vyloupnout to nahnilé dvoulaločné semeno a hodit je kočkám na dvůr. Kočky sežerou všechno. Ten stařec býval v mládí občas prchlivý a v poslední době jako by se mu tahle podrážděnost trochu vracela. Nemusel se hned ptát svého boha, co je toho příčinou.
 
 Jsou ale věci, na které se ten stařec ptát boha ani _nesmí_. A ani Hájka už se radši podruhé nezeptá. A tak zajde za odborníkem.
+
+</section>
+
+<section>
 
 Kočky sežerou všechno.
 
@@ -451,6 +481,10 @@ Takhle to totiž řekla i ta šedooká děvka. Jen místo kunda kupodivu použi
 „Proč?“ zeptal jsem se obou.
 
 Obě mi odpověděly, ať se neptám jako idiot. A ať radši rychle přesvědčím pana Drašara, ať prodá ten barák.
+
+</section>
+
+<section>
 
 V noci ze soboty na neděli se staly dvě neuvěřitelné věci. Za prvé, tomu starci se zjevil Bůh. Nestalo se to kupodivu při modlitbě před spaním (v létě se stařec modlil na terase, slýchal jsem občas ta vášnivá a vroucí slova při svém vlastním předspánkovém rituálu, jenž měl za účel dostat něco vroucího a vášnivého zase ze mě), stalo se to při opravě plynového kotle. Starý junkers visel na stěně v dávno nepoužívané hale vedle starcova bytu, vedle něj Kristus na kříži. Kristus hlídal plamínek, o němž opravář říkával, že je věčný. S tou věčností to ale nebylo tak horké, opravář musel chodit stále častěji a stařec platil za opravy stále víc peněz; buď byl ten kotel už opravdu starý křáp, nebo se Bůh zlobil.
 
@@ -554,6 +588,10 @@ Brzy už zjistíš, jak věci fungují doopravdy, Juro. A je jen na tobě, jest
 
 S těmi slovy ho Pán opustil. Vyvanul větracím okénkem, vždy pootevřeným právě kvůli tomu plynu. Bylo by věru symbolické, bylo by to vytoužené a vymodlené znamení, kdyby v té chvíli věčný plamínek konečně vzplanul – ale kupodivu se tak nestalo. Jen tma nad vodami. Snad se Bůh na starce opravdu hněval, nebo už tyhle šestákové zázraky neprovozuje. Nakonec musel ten kotel zase opravit plynař. Jednou to tu všechno vyhodíte do luftu, starej pane. Řekl plynař. Nebo někdo jeho ústy?
 
+</section>
+
+<section>
+
 Druhá neuvěřitelná věc potkala starce téže noci nad ránem. Proboha! Ačkoliv jindy se probouzel pomalu, teď byl vzhůru okamžitě. Něco se stalo, něco neuvěřitelného. Ne v domě, ale v něm. Ve mně. Umírám? Přišel sis pro mě, Pane?
 
 Ta věc. Použil v duchu stejné slovo, jako když uvažoval o té její věci – a to mu pomohlo vše pochopit. Sáhl si pod peřinu a ucítil, že má erekci. Že mu stojí. Péro, jak by nejspíš řekl Hájek. Ani by si nedokázal vzpomenout, kdy se mu to stalo naposledy: před deseti lety? Před patnácti? Vzal tu _věc_ nejistě do dlaně, objal ji prsty pravé ruky a opatrně čekal, zda zemře; byl si skoro jistý, že kdyby rukou pohyboval, jeho srdce (a rozum) by to nepřečkaly. Věděl, že těsně před smrtí se to stává, a v první chvíli ho jiný důvod ani nenapadl.
@@ -568,7 +606,15 @@ Rychle vstal, že se zchladí studenou vodou, jako to dělával v mládí ve ch
 
 Uprostřed modlitby, uprostřed počínajícího svítání, se ten stařec začal hlasitě smát.
 
+</section>
+
+<section>
+
 (Ten smích mě probudil. Spal jsem v garsonce, v našem letním bytě, sotva tři metry pod tím starcem, a také já jsem měl erekci; na rozdíl od toho starce jsem ale nedoufal, že je tou úplně poslední. Možná jsme ale oba ve spánku snili o stejné ženě.)
+
+</section>
+
+<section>
 
 A zázraky toho víkendu pokračovaly. Hájek zemřel jen o pár hodin později, v tutéž květnovou neděli, zemřel přímo na hrubé mši; sklonil hlavu k modlitební knížce, a když všichni povstali k otčenáši, on už nepovstal. Nač dumat, do které kapitoly vychrlil krev? Bůh učinil zázrak, povolal ho k sobě přímou linkou, bez utrpení v těch hrozných nemocničních čekárnách, kde mají skoro všechny špinavé vlaky zpoždění. Děkuji ti za něj, Pane, pomyslel si stařec. Bůh si u něj tímto až reklamním příkladem milosrdenství notně napravil reputaci; na straně druhé – neboť i božské mince mají dvě strany – to v něm vyvolalo trýznivé (no: spíš svědivé) otázky.
 
@@ -607,6 +653,10 @@ Stařec na okamžik zaváhal. Tou skulinou k němu vešel svět se všemi poku�
 Stařec ho chvíli pozoroval. Musel přitom zaklánět hlavu. Trocha dešťové vody z klobouku mu přitom stekla za límec kabátu. Vzpomněl si na toho chlápka, co měl v jeho domě pronajatou garsonku a co se tak rád toulával v dešti. Ten mi taky chybět nebude, pomyslel si skoro lhostejně. Snad jen jeho žena, ale i ta má v poslední době jakousi lačnost ve tváři. Jako ty kočky, když je večer krmím.
 
 „To radši tu Darju,“ řekl.
+
+</section>
+
+<section>
 
 Když bylo po všem, taky jsem ji vyhledal. Tu mladou ženu, co se jmenovala jako dárek, dáreček převázaný místo stuhy ostnatým drátem. Nedělala už provozní v tom nočním klubu pro osamělé muže – a když jsem se po ní ptal, ten den, kdy jsme si z domu odváželi své poslední věci, nenašel jsem tam ani toho holohlavého muže. Ale snad právě proto se hubená zrzka za barem nebála napsat mi na lísteček adresu.
 
@@ -896,7 +946,15 @@ Co na tohle říct? Taky to cítím. Taky to nechci cítit až do smrti. Takže 
 
 Usměje se na mě. Teď už to není úsměv její profese. „Radši to dál ani nechtěj slyšet. Stejně bys mi to nevěřil.“
 
+</section>
+
+<section>
+
 (Dodneška přemýšlím, zda jsem jí tu historku uvěřil, nebo ne. Často o tom přemýšlím. Ne o tom, zda byla _pravdivá_: ale jestli jsem jí uvěřil. V tom je dost velký rozdíl, _zásadní rozdíl_, jak by nejspíš řekla má bývalá žena. Ale nemůžu to s ní zkonzultovat – a nejen proto, že už by mi nejspíš nezvedla telefon. Taky jsem přece slíbil, že tohle nikomu vyprávět nebudu.)
+
+</section>
+
+<section>
 
 Nejčastěji na tu Darjinu _storku_ myslívám ráno v koupelně; zatímco čekám, až holicí pěna změkčí mé strniště, představuji si tu mladou ženu, jak se to ráno taky dívala do zrcadla. Jak vstala skoro ještě za tmy – čas, kdy děvky obvykle chodívají spát po šichtě –, aby se podívala na pálení a svědění, jež ji probudilo. Občasné svědění holt patří k její profesi, tentokrát ji ovšem svědí rty – skoro jako tenkrát před lety ve Zlíně, když se jí hojily zjizvené rty. Rozsvítila lampičku nad zrcadlem, aby líp viděla. Vykřikla. Její rty byly naběhlé jako tenkrát. „Měla jsem hubu nateklou jak Angelina Jolie, co si dala přišít pod nos stydký pysky místo těch skutečných.“ Ale ty jizvy, tu bílou mřížku připomínající otisklý ostnatý drát, ty jizvy na svých rtech _za toho rozbřesku_ neviděla.
 
@@ -948,6 +1006,10 @@ A protože nejsem na tak zásadní rozhodnutí připraven, udělám totéž co 
 
 Pochopí to i ona. Vyškubne se mi. Marně žertuji, že mi šlo jen o klasický filmový happy end, když už se nejspíš vidíme naposledy. Žádné slitování, žádné odpuštění. Co chcete od kurvy. Nezaváhá ani vteřinu a zazvoní na toho svého vyhazovače.
 
+</section>
+
+<section>
+
 Tu noc se mu nezdálo o lvech. Naopak, probudila ho zima; tak si _jádro_ tohoto příběhu aspoň představuji, slepuji ze všech těch rozbitých slupek, jež po tom starci zbyly. Jiná zima než ta za oknem, jež i v noci už prohrávala s jarem. Půl třetí. Chvěl se i pod tlustou peřinou, pod níž před lety umřela jeho žena. Nestihnu to, pomyslel si.
 
 Pane, pomoz mi.
@@ -969,3 +1031,5 @@ Jen bůh ví, zda by mu ta semena opravdu prodloužila život, kdyby je nadále 
 Když se belhal ve vatovém kabátě přes rozbahněný dvůr, ještě nesvítalo; obloha ale byla jasná, plná hvězd, a měsíci zbývaly sotva dva dny do úplňku. Nedožiju se ho, pomyslel si stařec už zase tak rozjařeně. Vešel do kůlny, stlučené z dřevěných bedniček od korditu. Světlo nesvítilo, ale s tím ani nepočítal; věděl už, že světlo si obvykle musí člověk nosit s sebou. Měl starou vojenskou svítilnu; protože žil tak sám, udržoval baterie vždy čerstvé. Střelmistr ví, jak je energie pro zážehový impuls důležitá. Možná jsem si měl natáhnout ty dráty až sem, pomyslel si ještě: mohl jsem to odpálit odsuď. Sám totiž mám energii už jen na jedinej odpal, pomyslel si ještě, než se v kuželu světla rozsvítily všechny ty oči.
 
 Byl už starý, žil úplně sám v tom starém domě na konci města a v noci se mu nezdávalo o lvech; zdálo se mu o kočkách. Na konci naší pouti život a sny splynou v jedno, pochopil. Bylo jich tam mnohem víc, než tušil, těch koček: černé, světlé, rezavé, koťata. Napřed se rozprchly, některé ven a jiné do temných koutů kůlny; ale když vysypal na podlahu zbytky jídla a otevřel pár rybích konzerv, začaly se postupně vracet. Jsou jako ta kurva, za žrádlo vás budou snad i milovat. Pomyslel si; pomyslel si _láskyplně_. Víc nechtěl. Kočky u jeho nohou se rvaly o žrádlo, ani nestačil otvírat konzervy (jednu snědl sám, prsty si vtlačil rybinu do bezzubých úst a vypil šťávu; poslední večeře byla docela chutná a voněla _tak_ _známě_). Ale i když jídlo došlo, kočky u něho zůstaly. Otíraly se mu o nohy, vrněly, celá kůlna a celý svět (a stařec k tomu) se chvěli tím vrněním, tou vibrací, tím _předením_ _posledního_ vlákna, jež spojovalo toho starce se životem – a když si lehl na záda na starou pohovku, jedna z těch koček mu vyskočila na hruď, chvíli po něm rozvážně šlapala, jako by hledala jeho srdce, a pak na něj celou vahou ulehla. Olízla mu tvář, jazykem drsným jako život. Najednou se nemohl ani nadechnout k poděkování, tak byla ta černá kočka těžká.
+
+</section>

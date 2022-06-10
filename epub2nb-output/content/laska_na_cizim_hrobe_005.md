@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _I bílý anděl má černý stín  
 Pojďme ho, lásko, oškubat do peřin  
 Těma se přikryjem,  
@@ -14,4 +16,10 @@ až počneme sobě
 Jeníčka s Mařenou,  
 v mý troubě pečený nebožátka_
 
+</section>
+
+<section>
+
 _Zuzana Trojanová, Hřbitovní tráva_
+
+</section>

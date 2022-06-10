@@ -3,6 +3,8 @@ title: Vybřežení
 contentType: prose
 ---
 
+<section>
+
 > ****DARJA**: Když prší, může se stát úplně všechno.**
 
 > ****LUBOŠ**: Pršelo.**
@@ -67,6 +69,10 @@ _Jez č. 232/MO, kvůli blízkosti pavilonu Anthropos přezdívaný také Past n
 
 _Autor písně Niagara proplul stovkami peřejí – na Amazonce, na Paraná, na Rio Perené. Když sjížděl na voru vodopády na dravé řece Huallaga, vytáhli ho indiáni z vodních vírů v kómatu, z něhož jej šaman probral až za osm dnů._
 
+</section>
+
+<section>
+
 > ****JAREK**: Pro amatéry je tenhle jez ještě pořád nebezpečnej. Ale teď už je to na něm aspoň vidět. Zaber, vole.**
 
 > ****LUBOŠ**: Ti mrtví tam jsou pořád. Cítím je.**
@@ -92,6 +98,10 @@ _Autor písně Niagara proplul stovkami peřejí – na Amazonce, na Paraná, n
 _Eskymácký obrat je záchranný manévr posádky po převrácení kajaku nebo zavřené sjezdařské kánoe. Při správné koordinaci pohybů není náročný na sílu, trénuje se důrazný pohyb boky a především hlavní zásada, že hlava jde z vody jako poslední. Mimořádně obtížné je ovšem dosáhnout souhry ve dvou, například na deblkánoi._
 
 _I život Eduarda Ingriše se během jediné chvíle obrátil vzhůru nohama, rázem se opravdu ocitl hlavou v divoké vodě. Slavný a bohatý prvorepublikový operetní skladatel po únoru 1948 přeplul s padesáti dolary Atlantik do Argentiny, pak proti proudu téměř celou Amazonku, později z Peru na balzovém voru Pacifik až do Polynésie. Eskymáky sice neznal, ale amazonské indiány výborně; vydal o nich několik fotografických knih a natočil několik filmů. A ze všech svých divokých obratů se vynořil vždy s hlavou mokrou, otlučenou, ale šťastnou a plnou plánů na nová dobrodružství._
+
+</section>
+
+<section>
 
 > ****DARJA**: Stála jsem v dešti na mostě a čekala, co ke mně řeka přinese. Jak děvka v Hamburku.**
 
@@ -136,6 +146,10 @@ _I život Eduarda Ingriše se během jediné chvíle obrátil vzhůru nohama, r
 _Darja Svojanovská, věk 39, výška 161, váha 59, barva očí šedá, barva vlasů blond. Sportovní postava. Ve zmíněný den oblečena do pánské hnědé kožené bundy značky Bugatti a černého spodního prádla značky Just Cavalli, na hlavě černá baseballová čepice značky Craft, na nohou neonově zelené gumové sandály značky Cross. Žádné šperky. Zvláštní znamení: výrazně zjizvený dolní ret, na zádech a na levé hýždi velké zelenomodré tetování ve tvaru ještěrky, na vnitřní straně levého stehna malé vytetované srdíčko. Naposledy viděna v erotickém podniku Riviéra, kde pracovala údajně jako tanečnice, ve skutečnosti prostitutka._
 
 _Autor písně Niagara znal všechny tanečnice v Praze, byl miláčkem žen v mondénní a umělecké pražské meziválečné společnosti; jeho osudovou ženou se ale stala až peruánská indiánka Natalia Mazuelos. Když si vzal krásnou Natalii v roce 1954 na palubu svého balzového voru Kantuta, s nímž chtěl doplout z Peru až na polynéské ostrovy, jeho velký vzor Thor Heyerdahl mu napsal: „Jsem přesvědčen, že soudek střelného prachu položený hned u vařiče na voru je daleko bezpečnější než tato žena se dvěma muži na palubě.“_
+
+</section>
+
+<section>
 
 > ****DARJA**: Když prší, může se stát úplně všechno. To ten déšť mě tak zblbnul, že jsem si spletla pitomou loďku s rakví. Ten déšť – a ještě jiný tekutiny v mým těle. Copak může rakev plavat proti proudu?**
 
@@ -309,6 +323,10 @@ _Tah lososů je jedním z nejznámějších mystérií přírody. Dravá ryba s
 
 _Autor písně Niagara viděl lososy táhnout peřejemi až ve stáří, byl ale specialistou na jihoamerické sladkovodní ryby a dokonce i na velké ryby mořské. Fotografoval je, psal o nich knihy – a když byla v padesátých letech natáčena filmová adaptace Hemingwayova Starce a moře, najal si John Huston Eduarda Ingriše jako odborného poradce. Tehdy se Ingriš seznámil s Ernestem Hemigwayem, s nímž se přátelil až do spisovatelovy sebevraždy._
 
+</section>
+
+<section>
+
 > ****JAREK**: To je teda síla, vole!**
 
 > ****LUBOŠ**: Ženská síla. Vlhká a vábivá. Vždycky když prší, myslím na lásku.**
@@ -436,6 +454,10 @@ _Autor písně Niagara viděl lososy táhnout peřejemi až ve stáří, byl ale
 _Vodní válec je vodácký výraz pro rotující vodu pod jezem: voda se odráží ode dna tak, že část vody se vrací na hladině zpět k jezu. Člověk zachycený vodním válcem pak nemůže od jezu odplavat, protože je neustále strháván proudem zpět – a jakmile se vrátí až k jezu, je zatlačen proudem vody znovu pod hladinu._
 
 _Rovněž Eduard Ingriš uvízl ve vodní pasti, a to při své první plavbě z Peru do Polynésie. Blízko rovníku se jeho balzový vor dostal do obrovského víru, jenž měl v průměru 600 mil. Celých 47 dnů se tříčlenná posádka marně pokoušela vyváznout, navíc přestala fungovat vysílačka. Jeden z členů posádky ze strachu ze smrti hladem chtěl všechny ostatní postřílet, Ingriš mu v poslední chvíli sebral revolver. Dokonce i krásná Natalia Mazuelos těžce onemocněla, přesto právě ona byla zoufalým mužům jedinou oporou. Ingriš si později poznamenal do lodního deníku: „Bylo by těžké nalézt druhou dívku podobných vlastností: udatnost, neohroženost, nebojácnost, něžnost a trpělivost přímo andělská. V těžké nemoci, bez naděje na záchranu, mohla být příkladem celému světu.“ Když se pak Ingrišovi přece jen podařilo vysílačku na chvilku oživit a vyslat SOS, panamský prezident požádal o pomoc přímo prezidenta Eisenhowera. Dvě americké válečné lodě pak zcela zdecimovanou posádku po týdenní akci zachránily. Přestože plavba skončila téměř katastrofou, posádku vítaly v Limě statisíce lidí. „Jako bychom se vrátili z Měsíce,“ zapsal si Ingriš._
+
+</section>
+
+<section>
 
 > ****LUBOŠ**: Na břehu řeky Svratky kvete rozrazil –**
 
@@ -980,3 +1002,5 @@ _Eduard Ingriš naposledy vyrazil do nebezpečných vod v roce 1959, když na b
 > ****JAREK**: Škoda že ten přelud krásný nelze ó-bej-mout…**
 
 > ****DARJA**: To by mě vážně zajímalo, kdo tenhle cajdák složil.**
+
+</section>
