@@ -3,6 +3,8 @@ title: Rezonance
 contentType: prose
 ---
 
+<section>
+
 > _Pokuta za nespláchnutí až tisíc dolarů. Platí i v případě, že splachovadlo nefunguje._
 
 > upozornění na singapurských veřejných záchodcích
@@ -39,6 +41,10 @@ Stach vložil chvění i do svého hlasu. Kolikrát už jsem tohle říkal? Kol
 
 „Každopádně vám ale děkuji,“ řekne Stach. „Myslím, že napoprvé to zkusím bez muziky. Pusťte mi tam nějaké pěkné ticho.“
 
+</section>
+
+<section>
+
 Ale zřejmě udělal na tu dívku v recepci přece jen nějaký dojem, protože to popletla – a když byl Stach zasunut do toho vševědoucího pouzdra, do té obří ocelové dělohy, ve sluchátkách se rozezněl klavírní koncert. _Proboha, co to je?_ Z prvních tónů jej dokonce ani nepoznal: přesto ho ta hudba oslovila tak hrozně důvěrně, až se mu málem udělalo slabo. _Jako při chrlení krve_, vzpomněl si na metaforu jediného zpívajícího básníka, kterého byl ochoten vzít na milost. A po pár vteřinách už byla identifikace díla téměř nemožná, protože jiný nástroj (a já v něm!) začal se svým barbarským a disonantním koncertem: nesmělé zvuky klavíru byly přehlušeny sérií hlasitých staccatových úderů, to jak se elektromagnetické výboje zastřelovaly do jeho těla – a když v tom randálu Stachovo cvičené ucho přece jen občas rozeznalo osamělý tón klavíru, když vedle bušení obřího kladiva občas uslyšel ve sluchátkách i nesmělé zaťukání filcového kladívka, všechny ty údery dopadaly na stejnou strunu. To je trest za Stachovo žvanění v recepci: tenká struna úzkosti, na níž balancuje Stachova mysl, v první chvíli vyděšená jako myš, zavřená uvnitř dobře temperovaného klavíru.
 
 Vlastní vtipná metafora – protože on byl popularizátorem hudby, ne hudebníkem, on hudbu vyjadřoval slovy – jej tak nadchla, že se mu vrátila rozvaha. Na okamžik byl dokonce schopen uvědomit si komické prvky své situace: muž dávno po čtyřicítce, vsunutý jen v růžové noční košilce do tunelu magnetické rezonance, ne kvůli nějakému fatálnímu postižení, ale – z milosti a velkorysosti svého ortopeda – jen na snímkování zad, kvůli bolestem, jaké trápí v této bezpáteřní době každého druhého. A přece muž tak vyděšený, že navzdory své mimořádné pověsti (i schopnostem) hudebního znalce nedokáže ani poznat důvěrně povědomý klavírní koncert, vybraný bezpochyby z kompletu 100 nejkrásnějších skladeb světa, koupeného v nejbližší trafice. Jestli mi ta mašina opravdu vidí až do mozku, vyfotí tam teď jen prázdnou notovou osnovu.
@@ -54,6 +60,10 @@ Proboha.
 Neslyšel jsem to dvacet let.
 
 A překvapen tímto nenadálým setkáním, ba dokonce více polekán než překvapen, Vladimír Stach v náhlém návalu zmatku, nevole a strachu mimoděk stiskne vypínač na dlouhém kabelu, jež mu operátorka vložila před započetím procedury do dlaně.
+
+</section>
+
+<section>
 
 „Je to hloupý žert,“ vysvětluje lékařce, která okamžitě vysunula Stacha na jeho bílém katafalku z tunelu magnetické rezonance. Teď se sklání nad ním, silná padesátnice s šedými kratičkými vlasy, jako by se skláněla nad pitevním stolem – a něco v její masivní tváři Stachovi napovídá, že by se jí to možná i líbilo.
 
@@ -83,6 +93,10 @@ Než nad ním zaklapne víko, ta obstarožní lesba řekne:
 
 Ale Stach má dobrý sluch nejen na tóny hoboje, ale i na tóny lidských hlasů: pozná, že ho nakonec chtěla potěšit, _utěšit_, a to ho poleká. Viděla snad v té mašině i za tu chvilku _něco_? A poleká se ještě víc, když si v tom tunelu, téměř na stejném místě své skladby konečně vzpomene. Vzpomene si. Nezabije ho ta vzpomínka; zabije ho, že si vzpomněl _tak pozdě_.
 
+</section>
+
+<section>
+
 A přitom je to tak komická historka! Jedna z jeho nejoblíbenějších – hned po té romanci, v níž si jedna jeho studentka dala namalovat na svá záda klaviaturu a chtěla po Stachovi, aby na ní přehrával skladby klasiků (nejradši měla Ravelovo Bolero: tak ráda, že jej Stach nikdy nedohrál do konce). Ale _tato_ historka začíná banálněji, projdete běžně označenými dveřmi do vinárny, abyste si dali lehkou večeři, a dostanete sračku na celý život. Tady už se pohybujeme na hraně doslovnosti. Když se Stach později párkrát pustil do vyprávění před svými přáteli a kolegy, volil ovšem jiný slovník, záměrně suchý a nezaujatý, aby posluchače přivedl k pochybám, zda si celou tu neuvěřitelnou historku nevymyslel. (Příznačné je, že o té první, té o klaviatuře na nahých dívčích zádech, nikdy nepochybovali: a ta přitom vymyšlená _byla_.) Pak přicházela jeho chvíle: vytahoval vždy z peněženky závěrečný trumf, onen úřední list, lékařskou zprávu s nálezem a větou natolik komickou, že tím své posluchače vždy naprosto odzbrojil – a jejich smích mu aspoň na okamžik nahrazoval potlesk plného sálu, o němž snil jako mladík.
 
 Ten večer před téměř čtvrt stoletím se mu ovšem potlesku dostalo. Ve Zlíně, tehdy ještě ve městě obuvi. Sál místního divadla sice nebyl zdaleka plný, o potlesk dvou prořídlých řad se Stach dělil s dalšími pěti účinkujícími abiturientského koncertu studentů skladby – ale o tu dívku by se nedělil s nikým z nich, o tu dívku byl ochoten bojovat do poslední noty. Už proto, že byla zřejmě jediným návštěvníkem koncertu, který nepoznal, oč byla Stachova skladba horší nežli skladby jeho kolegů.
@@ -111,6 +125,10 @@ Stach chtěl ovšem nahlédnout té dívce do jiných niterných prostor. Když 
 
 Ovšem tato nepodařená předehra – o níž se Stach při líčení své následující komické historky nikdy nezmiňuje – je pro naši magnetickou rezonanci důležitá. Pro stanovení diagnózy musíme znát anamnézu, musíme vědět, co předcházelo záchvatu. Na rozdíl od Stacha nevyprávíme zábavnou chlapáckou historku, nýbrž _příběh_: příběh muže, který až na konci vlastní historky, již už vyprávěl sedmadvacetkrát, najednou uvidí, _ucítí_ její skutečnou pointu.
 
+</section>
+
+<section>
+
 Mezi žebry ji teď cítí, v tom tunelu na věčnost. Onu pointu. Malou a náhle horkou jako střela, jež se probíjí jeho vnitřnostmi. _Je_ to střela. Opravdová střela. Roztrhá mě jako kulka dum-dum.
 
 (Neříkala ostatně tehdy taky, že mě cítí až pod žebry? Ta, jež tu kulku pro mě ulila – z pravého zlata?)
@@ -118,6 +136,10 @@ Mezi žebry ji teď cítí, v tom tunelu na věčnost. Onu pointu. Malou a ná
 I zvuky uvnitř tunelu znějí jako střelba, po úvodní kanonádě teď už ale jen z lehkých automatických zbraní, navíc vzdálenějších: jedna dávka – _tatata-ta_ zleva, protiútok zprava, stejně dlouhá dávka _tatata-ta!_, jen s důraznější kadencí a ostřejším zvukem, jako když se kalašnikov pře s M16 v každodenních televizních záběrech odněkud z Blízkého východu. Pak je na okamžik vyhlášeno příměří a na bojiště Stachova nitra opět vstoupí hudba, jež mu ovšem tentokrát žádný mír nepřinese, jen zanítí staré rány. Moje vlastní hudba, hlasitější než před chvílí: vsadil bych se, že jestli ta doktorská sadistka nezvýšila výkon tohoto mučícího stroje, určitě aspoň zvýšila hlasitost hudby ve sluchátkách. Jsem přece expert, slyším každý decibel navíc. Proč jsem jí proboha neřekl, ať mi pustí jakoukoli _jinou_ hudbu! Copak může být ještě něco absurdnějšího, čím korunovat tuto neuvěřitelnou historku, než že budu na jejím konci zabit zlatou kulkou uvnitř ocelové rakve za zvuků vlastního funébrmarše?
 
 Stach málem znovu stiskne vypínač, jímž se proces zastavuje. Ale vzpomínka na výhružnou lékařku je ještě příliš čerstvá. Copak by to už tentokrát nebylo opravdu trapné? A třebaže si Stach uvědomuje, jak dětinské je vystavit svůj život v ohrožení jen proto, že vlastní pokus o záchranu by působil trapně, po vzoru tolika jiných válečných hrdinů se z ješitnosti a strachu radši zachová udatně.
+
+</section>
+
+<section>
 
 Možná byl Zlín plný neukojených žen, ale Stach už žádnou nechtěl. Tu dávnou červnovou noc. Nechtěl už ani ženu nejsvůdnější, jedinou svou opravdovou utěšitelku: hudbu. I ta je jen _fyzika_, pitomá fyzika! Chtěl jen něco malého k jídlu, dvě piva a trochu onanie na dobrou noc. Tak dospělé tužby na tak mladého muže.
 
@@ -196,6 +218,10 @@ Má to snad být urážka? Číšník ho pozoruje zepředu. Ta dívka zleva. Sta
 „_Skoro_,“ řekne ta dívka. Řekne tónem, který Stacha málem odradí. Ale Stach se jí ještě pořád nedokáže podívat do tváře. Nadechne se a řekne:
 
 „Přál bych si totiž… myslíte, že bych si mohl chvilku zahrát támhle na ten klavír?“
+
+</section>
+
+<section>
 
 Je vůbec možné, že jsem tehdy hrál právě tuto skladbu? Že jsem byl tak neskutečně pitomý, že místo abych preludoval osvědčené barové fláky, Blue Moon, snad My Way a samozřejmě Blueberry Hill, brnkal jsem na struny z vlastních střev? Pak ovšem bylo opravdu případné a snad dokonce i spravedlivé, že jsem k těm střevům (a jejich obsahu, _jenom se nestyď, miláčku_) nakonec dospěl i ve skutečnosti. Možná už brzy sám skončím ve střevech nějakého ocelového zvířete.
 
@@ -277,6 +303,10 @@ Ale její veselost je stejně předstíraná jako její nedávný orgasmus. Ten 
 
 Ale Stach se ani tentokrát neurazí. Opravdová muzika: copak tohle není opravdový svět? Kritická část jeho mysli – ta, jež z něj po letech nakonec udělá profesora Stacha – mu samozřejmě říká: Co je opravdovýho na tanci s děvkou, jejíž profese je založená jen na předstírání? Co si to nalháváš, chudáčku? Ale když se k němu ta dívka přitiskne, když vyjedou na ten led k povinnému programu tanečních párů, horkost z alkoholu a horkost z té dívky rozpustí ledový blok někde v něm a on se tomu poddá.
 
+</section>
+
+<section>
+
 _Deus ex machina_, bůh ze stroje, teď podrobuje Stacha důkladnému zkoumání, teď ho doslova proklepává, tak to aspoň zní ve zmučeném těle – a Stach cítí i ten hřebík, jímž je přibíjen na kříž. Ve svých útrobách jej cítí, jako bolest a jako nespravedlnost.
 
 Ach ano, Pane. _Nespravedlnost_.
@@ -286,6 +316,10 @@ To je to, nač teď ublíženě myslí muž, uzamčený v ocelové zpovědnici,
 To přece není spravedlivé, Pane. Je tolik jiných věcí, za něž si zasloužím být potrestán, pokárán, napomenut. Mé zpackané manželství. Má neplodnost: umělecká, ale i ta samčí. Tolik let jsem vrhal své sémě na zem a na hebounkou pleť, místo toho abych stříkal noty na papír a tóny k nebesům. Ale to jsi tak možná i chtěl, ne? To jsi se mnou zamýšlel! Někdo přece musí být také _tlumočníkem_ mezi Tvými andělskými chóry a převážně hluchoněmým publikem tady dole, na té poušti! A o to jsem se poctivě snažil, Pane, tlumočit božská hudební díla tvých múzických mluvčích do znakové řeči nahluchlých pozemšťanů. A docela se mi to dařilo, Pane. Při vší skromnosti. Tak moc jsem se snažil, aby lidé kolem mě – studenti, studentky, mí přátelé – slyšeli a dokázali slyšet _opravdovou hudbu_, Tvůj nejkrásnější a nejsrozumitelnější jazyk, poselství vznešenosti a harmonie. Copak jsi vážně nečetl mou knihu o Josefu Bergovi? Vždyť jsem Ti poslal autorský výtisk s věnováním!
 
 Tohle přece není můj _opravdový_ příběh, Pane, tohle je jen historka pro zasmání či úšklebek; dokonce i ta neobratná skladba, kterou jsem hrál dvakrát ten večer a již teď za trest slyším ve sluchátkách, vypovídá o mně – a o mém vztahu k Tobě – stokrát víc než cokoliv z toho večera a posrané (vlastně: prosrané, doslova _prosrané_) dávné noci. Proč chceš dělat z té skoro nevinné barové zábavy _dan_s_e macabre_[2](./resources/undefined)?
+
+</section>
+
+<section>
 
 _„Tak vidíš, že ti to docela jde…“_
 
@@ -417,6 +451,10 @@ _„Je jich plno druhů. Altová, sopránová –“_
 
 _„Jaká je ta tvoje?“_
 
+</section>
+
+<section>
+
 Atd. atd., takhle nějak to bylo. Ty dialogy nejsou úplně autentické, vždyť nejde o rekonstrukci z místa činu: základ je skutečný, ale znění je spíše stylizace, dvacetkrát přepisovaný scénář, k němuž chtěl Stach víc než jen složit filmovou hudbu. Ve skutečnosti se však zmohl jen na rychlodabing – jako v těch prvních porevolučních erotických filmech, v nichž ženskou i mužskou roli četl týž mužský hlas, což sexuálně poznamenalo celou dospívající generaci.
 
 Důvodem je i to, že některé detaily, ba i celé sekvence z toho večera si Stach skoro nepamatuje. Další vývoj večera a noci je totiž zahalen mlhou opilosti, mlhou času a ke konci i mlhou opravdové amnézie, jakou si přivodíme při úrazu hlavy. Stach si vzpomíná, jak s tou děvkou ještě chvíli tančil, jak cítil pod dlaněmi její lehce zpocený pas, někde na břiše její široká ňadra a jeho osamělý penis se zřejmě opravdu pokoušel proniknout pod její žebra jako řeznický hák na zavěšení toho živého masa.
@@ -463,6 +501,10 @@ Vilda rozsvítí hlavní lustr. Ostré světlo se zařízne Stachovi do očí ja
 
 Stach se chce těm hodným lidem zavděčit a se vším jim pomoci: s hledáním zubu, s hledáním důstojnějšího života. Hravě by to vše dokázal, kdyby se k bolesti hlavy nepřidala stejně bodavá bolest v jícnu, jež ho v první chvíli úplně ochromila. Najednou už ví, ví a _cítí_, kde je ten zatracený a ztracený zub.
 
+</section>
+
+<section>
+
 _Spolkl zub, který při koitu vypadl partnerce z úst._
 
 Tak zní ta slavná věta z lékařské zprávy, jíž Stach už roky – čtvrt století! – stvrzuje pravdivost své historky. Napsal ji na pohotovosti lékař tak mladičký, že jej Stach zprvu pokládal za medika; víc si z něj ovšem nepamatuje, protože jeho obluzená mysl (lehký otřes mozku) se dokázala soustředit jen na ženskou tvář, jež přihlížela jeho iniciaci: odulá a rudá tvář té kurvy, čekající na chirurga, který by měl sešít její rozdrcené rty.
@@ -482,6 +524,10 @@ Děvka ukazuje lékaři hrot v ústech, na nějž se zlatý zub nasunoval. Jej�
 „Když ten zub nemá hrot, možná by stačilo dát tady pánovi nějaká silná laxativa, aby z něj ten zub co nejdřív vyšel. S dětmi to tak obvykle děláme. Ani byste nevěřila, co všechno děti spolknou.“
 
 „Možná byste nevěřil, co všechno musím občas spolknout já, doktore. Dejte mu to projímadlo – ale radši až potom, co mě zašijí. Chci mít ty jeho hovna pod kontrolou.“
+
+</section>
+
+<section>
 
 „Umíte si to vůbec představit, pánové?“ říkává Stach obvykle na konci své historky, v níž samozřejmě mnohé vynechává, mnohé si přimýšlí. „Sedím v hotelu na vaně a polonahá nádherná holka – _mladá pornoherečka!_ – se přehrabuje vidličkou v nočníku mezi mými výkaly jako naše proděkanka v menze v rizotu a zkouší z těch hoven vyrýžovat zlato!“
 
@@ -626,3 +672,5 @@ Možná by ta hudba přece jen mohla být záchrannou brzdou toho mého vlaku, �
 _[2](./resources/undefined) Tanec smrti. _Pozn. red.__
 
 _[3](./resources/undefined) S láskou, důvěrně. _Pozn. red.__
+
+</section>

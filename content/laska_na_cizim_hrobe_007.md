@@ -3,6 +3,8 @@ title: Dírka
 contentType: prose
 ---
 
+<section>
+
 > _Zatracená dírka! Co já si fčil počnu? Já mám klíč zubem navrch a zámek nemůžu přece obracet! Počkat! Co kdybych obrátil ten klíč? — A hle, dvéře se otevřely!_
 
 > Rudolf Těsnohlídek, Příhody lišky Bystroušky
@@ -67,9 +69,17 @@ Nasadí si jeho sluneční brýle. Jsou to zrcadlovky, Rob v nich vidí sám se
 
 Uhodli jste, kdo to byl, kdo ho v té těžké hodině tak přátelsky povzbudil?
 
+</section>
+
+<section>
+
 Třebaže tohle není příběh o mně, je to můj příběh. Příběh přece nepatří výhradně tomu, kdo jej prožívá: pro účastníky je to obvykle jen zážitek, nanejvýš příhoda. Teprve vypravěč uvaří z brambor bramboračku a z krve prejt a prostře tu krmi na flekatý ubrus literatury. Neznám Roba, neznám ani tu žebračku: ale určitě rozumím jejich motivům lépe nežli těm vlastním, aspoň co se postávání u zábradlí čtvrtého nástupiště týká.
 
 Miluji to místo. Jsou lidé, kteří cestují kvůli cestě; já cestuji kvůli odjíždění. Když se vlak pohne, jsem na kratičký okamžik skoro vždy naplněn nadějí, že jsem zůstal vzadu na peróně, ten člověk, kterého tuto sezónu nemám moc rád. Dokonce závidím jistému _specializovanému_ druhu alkoholiků, kteří si koupí u jednoho z těch stánků dole na plácku půlčík vodky, nasednou do vlaku a jedou tak daleko, kam až jim flaška vydrží; pak vystoupí, dají si u stánku na neznámém nádraží klobásu a pivo, koupí další láhev a jedou zpátky. Nepochybuji o tom – vím to, některé z nich jsem znal –, že se celou tu cestu dívají z okna do mlhy a sní. Jako když já se ve svém vlaku (a svých tunelech) dívám z okna do krajiny a s ním o tom, že bych žil jako oni. Ale nemám odvahu a režijní jízdenku, bez níž to leze do peněz.
+
+</section>
+
+<section>
 
 Nějaký kretén, nějaký vychlastaný čurák na Roberta pokřikuje shora ze čtvrtého nástupiště, ať to nevzdává… a právě díky tomu se Robert konečně rozhodne pro opak. Zachová se dospěle. Vzdá to. Nebude přece bojovat o pitomou housku ze stánku. Na něco takového nemá čas – a čas jsou co? Takže teď už jde jen o to, jak z této idiotské situace vycouvat se ctí.
 
@@ -97,7 +107,15 @@ Ta výstraha se očividně vztahuje k tomu papírku, k tomu růžovému lístk
 
 „Neblázni, chudáčku. Od tebe nic zadarmo nechci.“
 
+</section>
+
+<section>
+
 (Taky to tak nesnášíte? Ty lístky a lístečky a vstupenky a slevové kupóny, jež vám stále někdo nabízí a nutí při průchodu městem? Někdo je odmítá lhostejným gestem. Někdo je zdvořile přijme a vyhodí do nejbližšího odpadkového koše. Dokonce jsou prý snad i lidé – hlavně v Olomouci –, kteří všechny ty lístečky odnášejí domů a tam i čtou. Můj přítel Mirek Huptych mi vyprávěl, že když takhle jednou večer vyprazdňoval kapsy bundy, našel tam zelený lísteček na jazykový kurz němčiny, na němž bylo z druhé strany připsáno: _Miluji tě, Mirku!_ Nebylo to písmo jeho ženy Marušky. Že by kamarádský žert z hospody? Že by si to tam – nevědomky – napsal sám? Celé dva dny chodil po vlastních stopách, na nárožích a v podchodech u eskalátorů hleděl do očí ženám a dívkám, rozdávajícím tyto drobné reklamy, a hledal nějaké znamení. A ne že by nenacházel; problém byl, jak mi vysvětloval, že odpověď na svůj nevyřčený dotaz nacházel všude, skoro ve všech očích, jež jako by kromě lístečků nabízely i něco navíc. Nakonec to rozchodil; nakonec si radši namluvil, že to pochopil. Čímž se dostáváme konečně ke mně, neboť i já mám svůj svědivý příběh. Asi před měsícem – 6. dubna 2011, krátce po 16. hodině to bylo – jsem se probíjel centrem Brna, Českou ulicí, tou uličkou hanby, jež vám každodenně zatvrzuje srdce proti pouličním žebrákům, výběrčím charity, obchodníkům a podvodníkům, ba co hůř, proti opravdovému soucitu. Vždy je mi líto těch mladých dívek, ještě dívenek, jež žádají třeba o podporu na léčbu dětské leukémie – a jsou stále a stále nerudněji odmítány. Copak se i jejich srdce nezatvrdí? Copak i ony nemohou dostat ze vší té lhostejnosti chudokrevnost duše? Toho dne jsem je však odmítal taky, taky nerudně: odmítl jsem jednu s růžovými lístečky, málem odstrčil jinou se zelenými – a teprve před hotelem Avion jsem si uvědomil, jak ubožácky se chovám. Zastyděl jsem se, vždyť ty nebohé dívky za nic nemohou, taky chtějí jen přežít. Vždyť můžu ty lístky přijmout – a vyhodit je až za rohem. Naštěstí na zastávce tramvají taky jedna stála, bledá tmavovláska v džínových šatech, v ruce barevné lístečky – a já, aniž bych čekal na nabídku, aniž bych ji vystavoval tomu každodennímu podbízení se a žadonění, jsem si vytáhl z její ruky hned dva. Dva žluté lístečky. I nejmenší dobré činy se počítají, vím to. Aby mi nemusela děkovat, pokusil jsem se zmizet v davu, když vtom jsem za sebou uslyšel křik. Ženský křik. Ta dívenka to byla, hnala se za mnou a nadávala jako dlaždič. Nevyprávím to kvůli pointě, takže ji prozradím rovnou, bez obvyklých vypravěčských štráchů a piruet: Vyškubl jsem jí totiž z ruky kartičky se španělskými frázemi, jež se vždy učila při čekání na tramvaj. Až teď přichází pointa: Jak jsem se jí omlouval za to nedopatření, jak jsem s ní žertoval, jak jsem jí dokonce vyprávěl tu Huptychovu historku, jež ji téměř dojala, trochu jsme se sblížili; Huptych byl vždycky dobrá návnada, i když jen obstojná – jednostojná – volavka. Ani nevím, jak se jmenovala, ta bledá dívka v džínových šatech. Protože spěchala, protože její dvanáctka už jela, domluvili jsme se, že si zatelefonujeme a možná _– možná_, usmála se – si domluvíme schůzku. Týž den mi v jiné tramvaji samozřejmě ukradli mobil, do něhož jsem si to číslo uložil. Říkám _samozřejmě_, protože jinak to nejde – v životě se samozřejmě stávají neuvěřitelnější věci než v povídkách. Už chápete tu pointu? Protože pokud ta dívka teď čte tyto řádky – každý sníme o tom, že přece jen někdo přečte naše řádky, rukopis nalezený v kapse, báseň vyrytou do omítky veřejného záchodku – nechť mi to prosím nejenže odpustí, ale hlavně ať se mi prosím ozve na mail _neludvik@gmail.com.)_
+
+</section>
+
+<section>
 
 Ale zpět k Robovi, byť o něj už tu tolik nejde, zvláště když povídka svým předchozím odstavcem už skoro splnila svůj účel. Stejně jako ta ženská v oranžové bundě, která mizí ze scény (ani já už ji ze své nádražní lóže nevidím). Vidím ale Roba, který už vystoupal na své (a mé) nástupiště a chce zahodit růžový lístek do podobného koše, v němž zmizela jeho houska. Pak mu ale jeho výcvik obchodníka přece jen nedá a znovu jej dovede do neštěstí. Prohlédne si ten lístek.
 
@@ -161,7 +179,15 @@ Hledá slovo. Slovo hledá jeho. Já jsem jejich dohazovač.
 
 „Ano,“ řeknu. Odpusť, Helenko.
 
+</section>
+
+<section>
+
 (Vždyť dokonce ani tu světoznámou Lišku Bystroušku nevymyslel! Dostal její napsání příkazem od šéfredaktora Lidových novin Heinricha – jako texty k téměř komiksovým obrázkům Stanislava Lolka: _„…_ _nikdo v redakci to nechtěl psát, měl jsem vztek, a když mi po vydání vyřizoval Veselý první vzkaz Janáčkův, že to bude opera, domníval jsem se, že si ze mne dělá šoufky.__“_)
+
+</section>
+
+<section>
 
 O takových pajzlech napsal Těsnohlídek desítky soudniček. Malý zrcadlový sál půlkruhového půdorysu, plechový přístavek k mnohem větší herně, v níž máte aspoň malou šanci na výhru. Ale tady, co lze vyhrát tady, v hustém vzduchu pod líně se otáčející vrtulí falešné klimatizace, jež má snad osušit pot na čelech a zátylcích pouhých čtyř mužů, zírajících na malé vyvýšené pódium? Tady lze vyhrát snad jen hru, jako ostatně i u automatů vedle, jako ostatně i při tomto vyprávění. Hru na skutečnost?
 
@@ -285,7 +311,15 @@ Je to opravdu brouk, brouček, přišpendlený jejím posměšným pohledem do e
 
 „Ty seš fakt divnej,“ odpoví kupodivu bez posměchu. „Chlapi obvykle mizej na záchod, teprv když dotančím.“
 
+</section>
+
+<section>
+
 (Dokonce i tu sebevraždu málem zpackal! Když to o Vánocích roku 1928 v brněnské redakci Lidových novin udělal, chodil pak po redakci s rukama na zkrvavených prsou a každému se omlouval: „Promiňte, asi jsem se špatně střelil…“)
+
+</section>
+
+<section>
 
 Ta děvka má pravdu, na záchodě ani noha, jen ty moje hodně nejisté. Nohy, jež mají víc rozumu než já, protože mě chtějí odnést pryč. Dívám se v Robových zrcadlovkách do zrcadla; zrcadla v zrcadlech, jedna z metafor kvantové fyziky. Ale dnes mi dumání nad zákony světa nepomáhá jako obvykle, dnes mě přemůže obyčejná školská biochemie a já nad umývadlem nemyslím na tu děvku s rozbitými rty, najednou myslím na dívku se žlutými lístečky, neboť vodka mě činí sentimentálním. Je vůbec možné, že se s ní někdy sejdu? Že spolu půjdeme do kina, že mě naučí pár španělských frází? _Me encanta la lluvia._ _Me encanta hacer el amor la lluvia._[1](./resources/undefined) Najednou je mi na tom hajzlu konečně jasné, že to byl jen laciný romantický kvítek, vyrašivší v zapařeném kompostu mé hlavy. Jediný vřelý dívčí hlas, který se ještě kdy ozve v mém telefonu, bude patřit operátorce z call centra.
 
@@ -315,6 +349,10 @@ V mém věku už člověk erekci nezapírá; ale protože mi (i v mém věku) 
 
 Tomu fóru se opravdu s chutí zasměje. Když se přidám – vždyť kolik let jsem strávil v nejlepší společnosti v brněnské hospodě Bellevue? – jsme už skoro kumpáni. Tahle hrozná ženská mě má na háku, a ví to. Opravdu nevím, proč jí od začátku tak důvěřuji; nevím – nebo radši nechci vědět.
 
+</section>
+
+<section>
+
 Kde ten chlap sakra je? Dumá Robert Holiš u svého stolku ve strip baru Padlý anděl.
 
 Nejspíš se na mě vysral a zdrhl. Je to takovej typ.
@@ -326,6 +364,10 @@ Ale ani vlastní vtip už ho nedokáže rozesmát, probrat z kalné situace, je
 Něco mi určitě dali do pití. Nádražní kurvy to tak dělají. Uspávačky.
 
 Ta myšlenka ho paradoxně probudí. Na pár okamžiků má dokonce tak jasnou hlavu, že se rázně rozhodne změnit svůj život. Pozdě.
+
+</section>
+
+<section>
 
 Když si dám víc než dvě vodky, neumím odolat žádným dveřím s nápisem _Vstup zakázán_. Právě tam mě má společnice pozve, teatrální úklonou a ladným gestem. Do kumbálu, z něhož se před chvílí vynořila. Když přece jen ještě váhám, vysvětluje mi, že tu dělá příležitostnou hajzlbábu – _a ještě něco_. Ten dodatek by mě nejspíš měl varovat, ale můj domácí alarm už někdo zkratoval.
 
@@ -371,7 +413,15 @@ Tehdy jsem se měl otočit a odejít: z tohoto páchnoucího kumbálu, z tét
 
 „A byl bys ještě větší magor, kdybys tuhle dírku odmítl.“
 
+</section>
+
+<section>
+
 (Huptych mi jednou – vlastně _nejednou_ – vyprávěl, o čem nejčastěji snil během své základní vojenské služby v Trnavě roku 1971. Snil o _dírce_: ne v přeneseném slova smyslu, vlastním všem mužům na stráži, ale o konkrétní a doslovné dírce po vypadlém suku v dřevěné stěně převlékací kabiny v bulharském Burgasu, pláž Primorskoje, kabinka číslo 712. Původně to ani nebyl Huptychův sen: infikoval ho rotný Oljič, který měl u radarové obsluhy v Trnavě palandu nad ním: někdy s čuňáckým úsměvem, někdy však skoro dojatě vzpomínal rotný Oljič na to, jak byl v Burgasu dvakrát v dětství s rodiči a jak ho sám jeho nevlastní otec upozornil na to, že z poslední kabinky v sekci _muže_ je dírkou vidět do první kabinky v sekci _ženi_. Chlapec nechápal, proč je vždy taková fronta nejen u té kabiny mužské, ale především u té ženské: copak ty ženy opravdu netušily, co věděl na pláži skoro každý? Co věděly dokonce i _děti_? Teprve v dospělosti, na vojenském kavalci, rotný konečně pochopil – a rád a zálibně o tom po večerce každého poučoval, i svobodníka Huptycha. Dokonce do té kabinky v průběhu let poslal pár přátel a známých – a protože někteří se z té mise opravdu vrátili, věděl rotný Oljič, že kabinka i dírka dosud existují, dosud naplňují svůj účel i smysl. Bylo to rotného _generální téma_. Když s Huptychem pod kousavými dekami masturbovali \[každý zvlášť\], oba snili o ženách, třeba i vdaných a ctihodných, které nechají manžela i své děti _na chvilku_ na písku u tolik vlhkého moře a jdou se převléci z mokrých plavek do suchých, do té jedné jediné kabiny číslo 712, zvlhnout jiným slaným mořem s pachem jiných ryb. „Jak odsud vypadnu,“ sliboval rotný, „hned tam vyrazím s Čedokem, vole. Teď když vím, oč _opravdu_ kráčí, si to _opravdu_ užiju. Možná víc než s těma bulharskýma štětkama, co si pak vezmu v hotelu na pokoj.“ Ti dva vojáci snili stejný sen ve stejné noci, ale probuzení bylo pro každého jiné. Kupříkladu rotný Oljič se jednoho říjnového rána, dva týdny před vyřazením do civilu, vůbec neprobudil; při posledním nočním poplachu seskočil z korby vétřiesky tak nešťastně – tak mazácky – na blátivou cestu, až ho plná polní zvrátila zpět k náklaďáku, o jehož korbu se uhodil zátylkem – přesně v místě, kde končila jeho přilba, vzor 63; v noci se zmítal na palandě nad Huptychem tak divoce, tak hluboce sténal, až to Huptych přičítal mimořádně vášnivému snu, a tak raději druha ve zbrani nerušil; ráno však ležel rotný Oljič na palandě nehnutě a ve tváři měl to, co do armády narukoval bránit, tedy hluboký mír. Krvácení do mozku. Huptych s ním neměl – kromě souběžné onanie – téměř nic společného a byl už tehdy natolik moudrý, že mu tu rychlou smrt ve spánku téměř záviděl; proč se ale rozhodl naplnit druhovo poslání, to mi dodnes nedokázal uspokojivě vysvětlit. Zvědavost? Romantická letora, básníkům téměř povinná? Touha naplnit nějak příběh, dospět s ním až k vyvrcholení? Každopádně půl roku po propuštění z armády – odseděl si ještě dva měsíce vojenského kriminálu za četbu Célina ve službě – kráčí Mirek Huptych po pláži Černého moře, připraven na vše: v koženkové příruční tašce má plavky, ručník a sbírku básní Oldřicha Mikuláška, aby měl co _vhodného_ ke čtení, kdyby před kabinkou 712 byla příliš velká fronta. Není tam nikdo. Před kabinkou, v kabince, ba zřejmě ani v té kabince vedlejší. A hlavně tam není ani dírka – ta očekávaná, slavná, nadějíplná, zasvěcující, rozsvětlující, objasňující, vzrušující a vše překračující dírka, červí díra do jiného vesmíru, jak bych řekl já, vzdělaný v kvantové fyzice, šmíračenka na čumendu, jak říká Huptych. Celá levá stěna poslední mužské kabiny, společná s první kabinou ženskou, je totiž pobita zinkovým plechem. A třebaže nápisy vyryté do tohoto plechu by ho také mohly k lecčemu inspirovat, psané slovo tentokrát básníka nevzruší ani neukojí. Zklamání je v první chvíli tak obrovské, že prý dokonce chvíli váhal, zda se nemá rovnou odebrat za svým rotným. „Tak to je, když se člověk příliš upne k něčemu metafyzickému,“ říká mi. Pokaždé mi říká něco jiného, ten příběh má několik variant s různými konci, i proto jej mám tak rád. V jedné z verzí sedí Huptych v naprosté tmě převlékací kabinky celý den a noc, než dojde k prozření, že _takhle_ je to lepší. V podobné verzi si v té tmě vysní ženu, která se ve vedlejší kabince svléká; vysní si ji _se všema chlupama_, jak mi říká: „A když jsem vyšel z kabinky ven a přesně taková ženská vyšla z té vedlejší, ani jsem se za ní neohlédl.“ „To ti věřím,“ říkám, „tos udělal moc dobře, Mirku.“ V jiné verzi je ovšem naopak akčním hrdinou, opravdovým chlapem: vytáhne ze své koženkové tašky kapesní nůž, bodlem na čištění dýmky prorazí plechové ostění a odhodlán jako Edmond Dantès prokutá se malou dírkou až do vedlejší cely. Čeká. Když nikdo nejde, nahlédne dírkou konečně dovnitř. Tady se příběh dál štěpí, záleží na počtu dvojek červeného, které má vypravěč upito: v jedné verzi sedí ve vedlejší kabince nádherná a úplně nahá žena, v níž Huptych poznává svou matku. V jiné subverzi sedí ve vedlejší kabince četař Oljič: je nahý, masturbuje a dívá se dírkou přímo na Huptycha. A v jiné subverzi – mnou nepříliš oblíbené – nahlíží Huptych dírkou přímo do ženského lůna, hodiny a hodiny; popis tohoto dobrodružství najde laskavý čtenář v díle Henryho Millera. Jinou verzí Huptychova příběhu je _tento_ příběh. A mě na tomto vyprávění asi nejvíc zajímá, zda Huptych vůbec někdy přizná, co se v té převlékací kabince na pláži v Burgasu opravdu stalo. Zda to ještě vůbec ví. Ale nechci na něho příliš tlačit, aby – jen kvůli mně – některé z těch verzí opravdu neuvěřil. Aby se na ni neupnul. Vždyť co jiného nám nakonec zbývá než naše příběhy? Tento naštěstí aspoň nemá alternativní konce, konec převlékacího příběhu je vždy obdobný, všechna vlákna se nakonec vždy spojí do jediného uzlu, do jediné smyčky: Huptych konečně opustí kabinku, netečně obhlédne pusté a zbytečné moře, shledá pláž plnou krásných žen \[mezi nimiž i východoněmecké turistky, opalující se nahoře bez!\] zcela nevzrušivou a téhož večera a noci se vrací rychlíkem do Prahy. Zestárlý o dvacet let. Je si jist, že od této chvíle už bude jeho život fádní, plný skutečných žen a poezie. Na neoznačené zastávce uprostřed noční pusty přistoupí do jeho kupé krásná žena, rozhodí dlouhé vlasy na opěradle a řekne, že ho miluje, už dávno. Huptych jí říká: „Ale já jsem cestující a mám kdesi v daleké tmě jakési řízení.“ Žena odpovídá: „Já jsem ta Tma.“ Tohle kdybych někdy napsal, tak mi to nikdo neuvěří, pomyslí si ještě Huptych, než Pánbů vyvrtá do jeho hlavy dírku, jíž konečně prohlédne.)
+
+</section>
+
+<section>
 
 Jiná dírka.
 
@@ -417,7 +467,15 @@ Dokonce vidím ceduli na jeho dveřích.
 
 _RUDOLF TĚSNOHLÍDEK_
 
+</section>
+
+<section>
+
 (_Tím končí se naše prostá historie. Kterak se skončila ve skutečnosti, nebylo lze nám zjistiti._ Píše se v závěru Příhod lišky Bystroušky.)
+
+</section>
+
+<section>
 
 Psali o tom snad ve všech novinách, takže by to (snad) mohla být dokonce i pravda. Nejvynalézavěji kupodivu v Lidovkách, snad z piety k jednomu z nejslavnějších předchůdců.
 
@@ -577,12 +635,26 @@ Huptych mlčí. Radši, řekl bych. Je to zkušený terapeut.
 
 V čemž s ním výjimečně a opatrně souhlasím – ale mění to snad na věci něco? _Tohle_ je ta arteterapie. Ale teprve až mi napíše (na mail neludvik@gmail.com) ta dívka se žlutými lístečky, dostane tento příběh pointu (a pro mě snad i smysl).
 
+</section>
+
+<section>
+
 Poznámky k 2. vydání:
 
+</section>
+
+<section>
+
 _a) Existuje ještě jeden Těsnohlídek, současný český básník. Jan, stejně jako můj syn. S tím původním nemá nic společného, jen pseudonym. Když jsem v létě roku 2010 psal (a částečně i prožíval) v Poličce tento příběh (v garsonce na náměstí, již si před lety pronajal můj syn), uviděl jsem na vývěsce hotelu Pivovar pozvánku na besedu právě s tímto mladým básníkem. Z nudy i zvědavosti jsem se na ni večer vypravil. Básník přijel později, protože právě přebíral v Praze Cenu Jiřího Ortena pro mladé tvůrce; v nejužší nominaci na tuto cenu byl toho roku i můj syn Jan za knihu povídek Hra pro čtyři ruce (jako skoro před třiceti lety na obdobnou cenu já – za román Hra na slepo); snad právě proto spisovatel Jiří Kratochvil vyprávěl po celém Brně, že synovu knihu jsem vlastně napsal já (oba – můj syn i já – jsme se tomu povinně smáli, ale obou se nás to hrozně dotklo). Jako by těch náhod a shod nebylo dost, zatímco jsem v hospodě čekal na příjezd jiného Těsnohlídka, než o kterém jsem zrovna psal, uviděl jsem u baru mladou ženu, jež mi byla okamžitě tak blízká, až se mi sevřelo srdce. Je to snad ona? Konečně ona! – dívka se žlutými lístečky? Teprve po chvíli jsem si uvědomil, že ji sice opravdu znám, ale odjinud, jmenovala se Eva a před pár lety byla přítelkyní mého syna. Když jsem to synovi telefonoval – chtěl jsem jej otcovsky utěšit, že na cenách zase tolik nezáleží, kdežto na přítelkyních ano –, řekl mi, že tato Eva je nyní dívkou tohoto Těsnohlídka. Tehdy jsem měl tento příběh možná opustit; ale to si uvědomuji až teď, když už je nejspíš pozdě._
+
+</section>
+
+<section>
 
 _b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čtyři dívky, heč. Se dvěma jsem se dokonce sešel. Ale žádná z nich nebyla ta pravá, žádná se nestala mou pointou._
 
 * * *
 
 _[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. _Pozn. red.__
+
+</section>
