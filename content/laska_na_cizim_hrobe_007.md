@@ -321,7 +321,7 @@ Je to opravdu brouk, brouček, přišpendlený jejím posměšným pohledem do e
 
 <section>
 
-Ta děvka má pravdu, na záchodě ani noha, jen ty moje hodně nejisté. Nohy, jež mají víc rozumu než já, protože mě chtějí odnést pryč. Dívám se v Robových zrcadlovkách do zrcadla; zrcadla v zrcadlech, jedna z metafor kvantové fyziky. Ale dnes mi dumání nad zákony světa nepomáhá jako obvykle, dnes mě přemůže obyčejná školská biochemie a já nad umývadlem nemyslím na tu děvku s rozbitými rty, najednou myslím na dívku se žlutými lístečky, neboť vodka mě činí sentimentálním. Je vůbec možné, že se s ní někdy sejdu? Že spolu půjdeme do kina, že mě naučí pár španělských frází? _Me encanta la lluvia._ _Me encanta hacer el amor la lluvia._[1](./resources/undefined) Najednou je mi na tom hajzlu konečně jasné, že to byl jen laciný romantický kvítek, vyrašivší v zapařeném kompostu mé hlavy. Jediný vřelý dívčí hlas, který se ještě kdy ozve v mém telefonu, bude patřit operátorce z call centra.
+Ta děvka má pravdu, na záchodě ani noha, jen ty moje hodně nejisté. Nohy, jež mají víc rozumu než já, protože mě chtějí odnést pryč. Dívám se v Robových zrcadlovkách do zrcadla; zrcadla v zrcadlech, jedna z metafor kvantové fyziky. Ale dnes mi dumání nad zákony světa nepomáhá jako obvykle, dnes mě přemůže obyčejná školská biochemie a já nad umývadlem nemyslím na tu děvku s rozbitými rty, najednou myslím na dívku se žlutými lístečky, neboť vodka mě činí sentimentálním. Je vůbec možné, že se s ní někdy sejdu? Že spolu půjdeme do kina, že mě naučí pár španělských frází? _Me encanta la lluvia._ _Me encanta hacer el amor la lluvia._[^1] Najednou je mi na tom hajzlu konečně jasné, že to byl jen laciný romantický kvítek, vyrašivší v zapařeném kompostu mé hlavy. Jediný vřelý dívčí hlas, který se ještě kdy ozve v mém telefonu, bude patřit operátorce z call centra.
 
 Sebelítost, má poslední vášeň.
 
@@ -654,7 +654,5 @@ _a) Existuje ještě jeden Těsnohlídek, současný český básník. Jan, stej
 _b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čtyři dívky, heč. Se dvěma jsem se dokonce sešel. Ale žádná z nich nebyla ta pravá, žádná se nestala mou pointou._
 
 * * *
-
-_[1](./resources/undefined) Miluji déšť. Miluji milování v dešti. _Pozn. red.__
-
+[^1]: Miluji déšť. Miluji milování v dešti. _Pozn. red._
 </section>
