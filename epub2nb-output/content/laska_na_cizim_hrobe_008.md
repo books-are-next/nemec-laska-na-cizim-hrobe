@@ -315,7 +315,7 @@ To je to, nač teď ublíženě myslí muž, uzamčený v ocelové zpovědnici,
 
 To přece není spravedlivé, Pane. Je tolik jiných věcí, za něž si zasloužím být potrestán, pokárán, napomenut. Mé zpackané manželství. Má neplodnost: umělecká, ale i ta samčí. Tolik let jsem vrhal své sémě na zem a na hebounkou pleť, místo toho abych stříkal noty na papír a tóny k nebesům. Ale to jsi tak možná i chtěl, ne? To jsi se mnou zamýšlel! Někdo přece musí být také _tlumočníkem_ mezi Tvými andělskými chóry a převážně hluchoněmým publikem tady dole, na té poušti! A o to jsem se poctivě snažil, Pane, tlumočit božská hudební díla tvých múzických mluvčích do znakové řeči nahluchlých pozemšťanů. A docela se mi to dařilo, Pane. Při vší skromnosti. Tak moc jsem se snažil, aby lidé kolem mě – studenti, studentky, mí přátelé – slyšeli a dokázali slyšet _opravdovou hudbu_, Tvůj nejkrásnější a nejsrozumitelnější jazyk, poselství vznešenosti a harmonie. Copak jsi vážně nečetl mou knihu o Josefu Bergovi? Vždyť jsem Ti poslal autorský výtisk s věnováním!
 
-Tohle přece není můj _opravdový_ příběh, Pane, tohle je jen historka pro zasmání či úšklebek; dokonce i ta neobratná skladba, kterou jsem hrál dvakrát ten večer a již teď za trest slyším ve sluchátkách, vypovídá o mně – a o mém vztahu k Tobě – stokrát víc než cokoliv z toho večera a posrané (vlastně: prosrané, doslova _prosrané_) dávné noci. Proč chceš dělat z té skoro nevinné barové zábavy _dan_s_e macabre_[2](./resources/undefined)?
+Tohle přece není můj _opravdový_ příběh, Pane, tohle je jen historka pro zasmání či úšklebek; dokonce i ta neobratná skladba, kterou jsem hrál dvakrát ten večer a již teď za trest slyším ve sluchátkách, vypovídá o mně – a o mém vztahu k Tobě – stokrát víc než cokoliv z toho večera a posrané (vlastně: prosrané, doslova _prosrané_) dávné noci. Proč chceš dělat z té skoro nevinné barové zábavy _dan_s_e macabre_[^2]?
 
 </section>
 
@@ -467,7 +467,7 @@ Pak už netančili. _Souložili_. Na klavíru. U klavíru. Nebo se k tomu aspo
 
 Takže to, co patřilo k největšímu bohatství té dívky, k jejím korunovačním klenotům, prakticky vůbec nepoznal. A poznal ji vůbec, v tom pradávném smyslu slova? Dostal se do její pokladničky? Šukal s ní doopravdy, zabodoval, zavěsil? Ani tím si Stach není úplně jistý, byť obvykle vypráví tuto historku tak, že posluchači nepochybují.
 
-Hrál na klavír a ona hrála na Stacha. Con amore, intimo.[3](./resources/undefined) Ta její hudba byla jednodušší nežli jeho, byl to jen chodský dupák, krkonošský šoupák, tam a zpátky, tam a zpátky, jezdila mu klínem po klíně. Jezdila v rytmu, jejž jsem hrál – nebo jsem hrál v rytmu, jejž určovala ona? Až po letech mu ta otázka přišla důležitá, tehdy si jen myslel, cítil, _věděl to!_, že oba vzájemně ladí své nástroje k té hudbě z počátku světa, ke společnému akordu, ach ten malý bubeníček Stach.
+Hrál na klavír a ona hrála na Stacha. Con amore, intimo.[^3] Ta její hudba byla jednodušší nežli jeho, byl to jen chodský dupák, krkonošský šoupák, tam a zpátky, tam a zpátky, jezdila mu klínem po klíně. Jezdila v rytmu, jejž jsem hrál – nebo jsem hrál v rytmu, jejž určovala ona? Až po letech mu ta otázka přišla důležitá, tehdy si jen myslel, cítil, _věděl to!_, že oba vzájemně ladí své nástroje k té hudbě z počátku světa, ke společnému akordu, ach ten malý bubeníček Stach.
 
 „Hrej,“ šeptala, „hrej, hrej, _hrej_!“
 
@@ -668,9 +668,5 @@ Teď, v tunelu magnetické rezonance, ale Stach nepoužívá tu svou vyhlášen
 Možná by ta hudba přece jen mohla být záchrannou brzdou toho mého vlaku, řítícího se do tunelu. Zneužití se trestá. A když mu o dva dny později jeho lékař oznámí, že žádný zlatý zub ve Stachově nitru sice nalezen nebyl, ale malý nádor na prostatě bohužel ano, pocítí Stach v první chvíli dokonce něco jako úlevu. Tři týdny po robotické operaci zkouší na radu lékaře poprvé při pornofilmu masturbovat, aby zjistil, nakolik se mu vrací potence. (Ženskou k tomu zpočátku nepouštějte, poradil mu totiž lékař.) Je to film o ruských kozácích, to vypadá nadějně. Stach si podá utěrku a dokonce chvíli váhá, zda si místo přidabovaného vzdychání nemá pustit do reproduktorů vlastní skladbu, Fantasy For Your Piano; ne snad kvůli erekci, ale protože nesdílí lékařův optimismus. _Hrej, hrej, hrej, hrej._ Opatrně se usměje, a nejen kvůli tomu, že docela nadějně to na pár okamžiků vypadá i s jeho erekcí. Najednou si je totiž skoro jistý, že tu děvku už brzy zase uvidí.
 
 * * *
-
-_[2](./resources/undefined) Tanec smrti. _Pozn. red.__
-
-_[3](./resources/undefined) S láskou, důvěrně. _Pozn. red.__
-
+[^2]: Tanec smrti. _Pozn. red._[^3] S láskou, důvěrně. _Pozn. red._
 </section>
