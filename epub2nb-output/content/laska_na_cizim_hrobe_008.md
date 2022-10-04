@@ -668,5 +668,9 @@ Teď, v tunelu magnetické rezonance, ale Stach nepoužívá tu svou vyhlášen
 Možná by ta hudba přece jen mohla být záchrannou brzdou toho mého vlaku, řítícího se do tunelu. Zneužití se trestá. A když mu o dva dny později jeho lékař oznámí, že žádný zlatý zub ve Stachově nitru sice nalezen nebyl, ale malý nádor na prostatě bohužel ano, pocítí Stach v první chvíli dokonce něco jako úlevu. Tři týdny po robotické operaci zkouší na radu lékaře poprvé při pornofilmu masturbovat, aby zjistil, nakolik se mu vrací potence. (Ženskou k tomu zpočátku nepouštějte, poradil mu totiž lékař.) Je to film o ruských kozácích, to vypadá nadějně. Stach si podá utěrku a dokonce chvíli váhá, zda si místo přidabovaného vzdychání nemá pustit do reproduktorů vlastní skladbu, Fantasy For Your Piano; ne snad kvůli erekci, ale protože nesdílí lékařův optimismus. _Hrej, hrej, hrej, hrej._ Opatrně se usměje, a nejen kvůli tomu, že docela nadějně to na pár okamžiků vypadá i s jeho erekcí. Najednou si je totiž skoro jistý, že tu děvku už brzy zase uvidí.
 
 * * *
-[^2]: Tanec smrti. _Pozn. red._[^3] S láskou, důvěrně. _Pozn. red._
+
+[^2]: Tanec smrti. _Pozn. red._
+
+[^3]: S láskou, důvěrně. _Pozn. red._
+
 </section>

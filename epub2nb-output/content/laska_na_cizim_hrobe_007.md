@@ -654,5 +654,7 @@ _a) Existuje ještě jeden Těsnohlídek, současný český básník. Jan, stej
 _b) Už se mi ozvala, Mirku. Ta dívka se žlutými lístečky. Vlastně hned čtyři dívky, heč. Se dvěma jsem se dokonce sešel. Ale žádná z nich nebyla ta pravá, žádná se nestala mou pointou._
 
 * * *
+
 [^1]: Miluji déšť. Miluji milování v dešti. _Pozn. red._
+
 </section>
